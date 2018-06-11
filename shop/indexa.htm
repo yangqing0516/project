@@ -1,0 +1,368 @@
+<!doctype html>
+<html class="no-js">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Hello Amaze UI</title>
+
+    <!-- Set render engine for 360 browser -->
+    <meta name="renderer" content="webkit">
+
+    <!-- No Baidu Siteapp-->
+    <meta http-equiv="Cache-Control" content="no-siteapp" />
+
+    <link rel="stylesheet" href="assets/css/amazeui.min.css">
+    <link rel="stylesheet" href="assets/css/app.css">
+    <link rel="stylesheet" type="text/css" href="css/index.css" />
+    <script src="js/vue.js" type="text/javascript" charset="utf-8"></script>
+</head>
+
+<body class="bgcolor_five">
+    <div class="box" id="app">
+        <div class="am-g am-text-center bgcolor_white am-padding-vertical-xs border_bttom am-margin-bottom-sm">
+            <div class="am-u-sm-12 am-padding-left">
+                <span class="color_three marin_tfour">我的购物车</span>
+                <a href="" class="am-fr color_three am-text-sm">
+                </a>
+            </div>
+        </div>
+
+        <div class="comd">
+            <div class="am-g bgcolor_white">
+                <div class="am-u-sm-12 am-padding-left am-padding-vertical-sm border_bttom am-cf fincom">
+                    <!--<input type="checkbox" name="" id="" value="" class="am-text-middle pcheck checkPall" />-->
+                    <span class="am-text-sm color_six am-text-middle am-text-center">拉夏贝尔官方旗舰店</span>
+                    <span class="am-fr am-text-sm color_six" v-on:click="compile" v-bind:class="{disnone:isactive}">编辑</span>
+                    <span class="am-fr am-text-sm color_six disnone finish" v-on:click="close" v-bind:class="{disblack:isactive}">完成</span>
+                </div>
+            </div>
+
+            <div v-for="(item,index) in list">
+                <div class="am-g bgcolor_white border_bttom am-padding-bottom-sm goods am-padding-top-sm">
+                    <div class="am-u-sm-6 am-padding-left">
+                        <input type="checkbox" v-model="item.checked" @click="checkIsall" name="" id="" value="" class="am-text-middle check checkPall"
+                        />
+                        <img src="img/clearbg.jpg" width="100px" />
+                    </div>
+                    <div class="am-u-sm-6 am-padding-0">
+                        <div class="delblack disnone" v-bind:class="{disblack:isactive}">
+                            <span class="am-cf inline_block am-text-center">
+                                <span class="am-margin-top-lg inline_block span_wih am-fl border_left border_top border_bttom subtract" @click="subtract(index)">-</span>
+                                <input type="" name="" id="" v-model="item.quantity" class="am-fl span_wih cart_ipt am-margin-top-lg am-text-center in_put"
+                                />
+                                <span class="inline_block span_wih am-fl border_right border_top am-margin-top-lg border_bttom plus" @click="add(index)">+</span>
+                                <span class="del am-text-sm am-padding-left-xs color_white cart_ipt inline_block lin_he bgcolor_bc">
+                                    <a href="javascript:" class="am-text-sm color_white" @click="remove(index)">删除</a>
+                                </span>
+                            </span>
+                        </div>
+                        <div class="delnone" v-bind:class="{disnone:isactive}">
+                            <p class="am-text-sm am-margin-0 am-padding-top">{{item.name}}</p>
+                            <span class="am-text-sm color_aaa">款式：{{item.color}}</span>
+                            <span class="am-text-sm color_aaa am-padding-left-sm">尺码：{{item.size}}</span>
+                            <p class="am-margin-0 am-cf">
+                                <span class="am-text-lg color_six">￥
+                                    <span class="price">{{item.price}}</span>
+                                </span>
+                                <del class="am-text-sm color_aaa">￥{{item.marprice}}</del>
+                                <span class="am-text-sm am-padding-left-sm">X</span>
+                                <span class="am-text-sm am-padding-left-xs numb">{{item.quantity}}</span>
+                            </p>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <!--<div class="am-g bgcolor_white am-margin-bottom-sm">
+<div class="am-u-sm-12 am-padding-left am-padding-vertical-sm">
+<p class="am-margin-0">
+<span class="am-text-sm">共 <span>1</span>件商品</span>
+<span class="am-text-lg am-fr color_bc">￥<span class="aprice">195.50</span></span>
+<span class="am-text-sm marin_tfour am-fr">总价：</span>
+</p>
+</div>
+</div>-->
+        </div>
+        <!--<div class="comd">
+<div class="am-g bgcolor_white">
+<div class="am-u-sm-12 am-padding-left am-padding-vertical-sm border_bttom am-margin-bottom-sm am-cf fincom">
+<input type="checkbox" name="" id="" value="" class="am-text-middle pcheck checkPall" />
+<span class="am-text-sm color_six am-text-middle am-text-center">衣品天成官方旗舰店</span>
+<span class="am-fr am-text-sm color_six" v-on:click="open" v-bind:class="{disnone:down}">编辑</span>
+<span class="am-fr am-text-sm color_six disnone finish" v-on:click="updo" v-bind:class="{disblack:down}">完成</span>
+</div>
+</div>
+<div class="am-g bgcolor_white border_bttom am-padding-bottom-sm goods">
+<div class="am-u-sm-6 am-padding-left">
+<input type="checkbox" name="" id="" value="" class="am-text-middle check checkPall" />
+<img src="img/cart02.png" width="100px" />
+</div>
+<div class="am-u-sm-6 am-padding-0">
+<div class="delblack disnone" v-bind:class="{disblack:down}">
+<span class="am-cf inline_block am-text-center">
+<span class="am-margin-top-lg inline_block span_wih am-fl border_left border_top border_bttom subtract">-</span>
+<input type="" name="" id="" value="1" class="am-fl span_wih cart_ipt am-margin-top-lg am-text-center in_put" />
+<span class="inline_block span_wih am-fl border_right border_top am-margin-top-lg border_bttom plus">+</span>
+<span class="del am-text-sm am-padding-left-xs color_white cart_ipt inline_block lin_he bgcolor_bc">
+<a href="javascript:" class="am-text-sm color_white">删除</a>
+</span>
+</span>
+</div>
+<div class="delnone" v-bind:class="{disnone:down}">
+<p class="am-text-sm am-margin-0 am-padding-top am-text-truncate">长袖宽条纹针织毛衣女休闲打底衫</p>
+<span class="am-text-sm color_aaa">款式：黄色</span>
+<span class="am-text-sm color_aaa am-padding-left-sm">尺码：170</span>
+<p class="am-margin-0 am-cf">
+<span class="am-text-lg color_six">￥<span class="price">149.00</span></span>
+<del class="am-text-sm color_aaa">￥399.00</del>
+<span class="am-text-sm am-padding-left-sm">X </span>
+<span class="am-text-sm am-padding-left-xs numb">1</span>
+</p>
+</div>
+</div>
+</div>
+<div class="am-g bgcolor_white border_bttom am-padding-bottom-sm am-padding-top-sm goods">
+<div class="am-u-sm-6 am-padding-left">
+<input type="checkbox" name="" id="" value="" class="am-text-middle check checkPall" />
+<img src="img/cart.png" width="100px" />
+</div>
+<div class="am-u-sm-6 am-padding-0">
+<div class="delblack disnone" v-bind:class="{disblack:down}">
+<span class="am-cf inline_block am-text-center">
+<span class="am-margin-top-lg inline_block span_wih am-fl border_left border_top border_bttom subtract">-</span>
+<input type="" name="" id="" value="1" class="am-fl span_wih cart_ipt am-margin-top-lg am-text-center in_put" />
+<span class="inline_block span_wih am-fl border_right border_top am-margin-top-lg border_bttom plus">+</span>
+<span class="del am-text-sm am-padding-left-xs color_white cart_ipt inline_block lin_he bgcolor_bc">
+<a href="javascript:" class="am-text-sm color_white">删除</a>
+</span>
+</span>
+</div>
+<div class="delnone" v-bind:class="{disnone:down}">
+<p class="am-text-sm am-margin-0 am-padding-top am-text-truncate">秋冬新款马海毛格子长款毛呢大衣</p>
+<span class="am-text-sm color_aaa">款式：浅绿</span>
+<span class="am-text-sm color_aaa am-padding-left-sm">尺码：170</span>
+<p class="am-margin-0 am-cf">
+<span class="am-text-lg color_six">￥<span class="price">699.00</span></span>
+<del class="am-text-sm color_aaa">￥999.00</del>
+<span class="am-text-sm am-padding-left-sm">X </span>
+<span class="am-text-sm am-padding-left-xs numb">1</span>
+</p>
+</div>
+</div>
+</div>
+<div class="am-g bgcolor_white am-margin-bottom-sm">
+<div class="am-u-sm-12 am-padding-left am-padding-vertical-sm">
+<p class="am-margin-0">
+<span class="am-text-sm">共 <span>1</span>件商品</span>
+<span class="am-text-lg am-fr color_bc">￥<span class="aprice">149.00</span></span>
+<span class="am-text-sm marin_tfour am-fr">总价：</span>
+</p>
+</div>
+</div>
+</div>-->
+
+        <div class="am-g color_six am-text-center am-text-default bgcolor_white ma_bto">
+            <div class="am-u-sm-3 am-padding-top am-padding-right-0">
+                <input type="checkbox" v-on:click="checkAll" v-model="allChecked" name="" id="" value="" class="am-text-middle checkPall allcheck"
+                    id="" />
+                <!--<span class="am-fl inline_block circle_span circle_mspan active"></span>-->
+                <span class="am-text-sm am-fl">全选</span>
+            </div>
+            <div class="am-u-sm-6 am-text-right">
+                <p class="am-margin-0 am-padding-right-xs">总价：
+                    <span class="color_bc">￥
+                        <span class="allprice">{{total | formatePrice}}</span>
+                    </span>
+                </p>
+                <p class="am-margin-0 am-padding-right-xs color_aaa am-text-xs">不含减满优惠，不含运费</p>
+            </div>
+            <div class="am-u-sm-3 bgcolor_bc am-padding-vertical-sm">
+                <a href="clearing.html" class="am-text-default color_white">提交订单</a>
+            </div>
+        </div>
+    </div>
+    <div class="bttom fixed pos_bttom">
+        <ul class="am-text-center am-cf bgcolor_white am-padding-vertical-xs">
+            <li>
+                <a href="index.html">
+                    <img src="img/icon_index.png" width="21px" />
+                    <p class="am-text-xs color_six am-margin-0">首页</p>
+                </a>
+            </li>
+            <li>
+                <a href="purchase.html">
+                    <img src="img/icon_bag.png" width="21px" />
+                    <p class="am-text-xs am-margin-0 color_six">伊人购</p>
+                </a>
+            </li>
+            <li>
+                <a href="attention.html">
+                    <img src="img/icon_heart.png" width="24px" />
+                    <p class="am-text-xs am-margin-0 color_six">关注</p>
+                </a>
+            </li>
+            <li>
+                <a href="cart.html">
+                    <img src="img/icon_cartred.png" width="24px" />
+                    <p class="am-text-xs am-margin-0 color_bc">购物车</p>
+                </a>
+            </li>
+            <li>
+                <a href="mg_center.html">
+                    <img src="img/icon_my.png" width="21px" />
+                    <p class="am-text-xs am-margin-0 color_six">我的</p>
+                </a>
+            </li>
+        </ul>
+    </div>
+    <!--[if (gte IE 9)|!(IE)]><!-->
+    <script src="assets/js/jquery.min.js"></script>
+    <!--<![endif]-->
+    <!--[if lte IE 8 ]>
+<script src="http://libs.baidu.com/jquery/1.11.3/jquery.min.js"></script>
+<script src="http://cdn.staticfile.org/modernizr/2.8.3/modernizr.js"></script>
+<script src="assets/js/amazeui.ie8polyfill.min.js"></script>
+<![endif]-->
+    <script src="assets/js/amazeui.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('#accordion').on('open.collapse.amui', function (e) {
+                $(e.target).find('.am - panel - bd').fadeIn(3000)
+            }).on('close.collapse.amui', function (e) {
+                $(e.target).find('.am - panel - bd').fadeOut();
+            });
+        })
+    </script>
+    <script src="js/cart.js" type="text/javascript" charset="utf-8"></script>
+    <script type=" text/javascript ">
+        var app = new Vue({
+            el: '#app',
+            data: {
+                isactive: false,
+                allChecked: true,
+                total: 0.00,
+                down: false,
+                list: [{
+                    name: "2016冬装新款连衣裙",
+                    color: "黑色",
+                    quantity: 1,
+                    size: "M",
+                    price: "195.00",
+                    marprice: 399.00,
+                    marsize: 1,
+                    checked: true,
+                    lowest: false
+                },
+                {
+                    name: "2017冬装新款连衣裙",
+                    color: "黑色",
+                    quantity: 1,
+                    size: "M",
+                    price: "400.00",
+                    marprice: 499.00,
+                    marsize: 2,
+                    checked: true,
+                    lowest: false
+                },
+                {
+                    name: "2018冬装新款连衣裙",
+                    color: "黑色",
+                    quantity: 1,
+                    size: "M",
+                    price: "305.00",
+                    marprice: 999.00,
+                    marsize: 1,
+                    checked: true,
+                    lowest: false
+                }]
+            },
+            filters: {
+                formatePrice: function(value) {
+                    value = parseFloat(value);
+                    return value.toFixed(3)
+                }
+            },
+            methods: {
+                compile: function() {
+                    this.isactive = true;
+                },
+                close: function() {
+                    this.isactive = false;
+                },
+                open: function() {
+                    this.down = true;
+                },
+                updo: function() {
+                    this.down = false;
+                },
+                //加减
+                add: function(i) {
+                    this.list[i].quantity++;
+                    this.sum();
+                },
+                subtract: function(k) {
+                    var vm = this
+                    if (this.list[k].quantity > 1) {
+                        this.list[k].quantity--;
+                    } else {
+                        if (confirm("你确定移除该商品？")) {
+                            this.list.splice(k, 1) this.list[k].quantity == 1;
+                        }
+                    }
+                    this.sum();
+                },
+                //删除
+                remove: function(index) {
+                    if (confirm("你确定移除该商品？")) {
+                        this.list.splice(index, 1)
+                    }
+                },
+                //单选
+                check: function(i) {
+                    this.sum();
+                    this.checkIsall();
+                },
+                checkIsall: function() {
+                    this.sum();
+                    var t = 0;
+                    for (var i = 0; i < this.list.length; i++) {
+                        if (this.list[i].checked == true) {
+                            t++;
+                        }
+                    }
+                    if (t == this.list.length) {
+                        this.allChecked = true
+                    } else {
+                        this.allChecked = false
+                    }
+                },
+                //全选
+                checkAll: function() {
+                    //this.allChecked=!this.allChecked 如果是仿的复选框需要写 不是局部用写
+                    for (var i = 0; i < this.list.length; i++) {
+                        this.list[i].checked = this.allChecked;
+                    }
+                    this.sum();
+                },
+                sum: function() {
+                    this.total = 0;
+                    for (var i = 0; i < this.list.length; i++) {
+                        if (this.list[i].checked) {
+                            this.total += this.list[i].price * this.list[i].quantity
+                        }
+                    }
+                }
+            },
+            created: function() {
+                this.sum();
+            }
+            //计算
+        })
+</script>
+</body>
+
+</html>
