@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+
+<body>
+    <div class="wrap">
+        <table>
+            <thead>
+                <tr>
+                    <th>姓名</th>
+                    <th>地址</th>
+                    <th>年龄</th>
+                </tr>
+            </thead>
+            <tbody>
+		
+            </tbody>
+        </table>
+        <div class="page">
+            <button class="pre">上一页</button>
+            <div class="page-list">
+
+            </div>
+            <button class="next">下一页</button>
+        </div>
+    </div>
+    <script src="./js/jquery.js"></script>
+    <script src="./js/script.js"></script>
+    <script>
+        const page = document.querySelector('.page');
+        $.ajax({
+            url: "./data/data.json",
+            success: function (data) {
+                new pageFn({
+                    el: page, // 类挂在元素
+                    dataJson: data, // 元素
+                    pageContent: 5, // 分页显示的条数
+                    cb: () => { } // 页码改变时触发，接受当前的数据
+                });
+            }
+        })
+    </script>
+</body>
+
+</html>

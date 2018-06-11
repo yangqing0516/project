@@ -1,0 +1,14 @@
+webpackHotUpdate("index",{
+
+/***/ "./node_modules/_babel-loader@7.1.4@babel-loader/lib/index.js!./node_modules/_vue-loader@15.0.11@vue-loader/lib/index.js??vue-loader-options!./src/components/index.vue?vue&type=script&lang=js":
+/*!************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/_babel-loader@7.1.4@babel-loader/lib!./node_modules/_vue-loader@15.0.11@vue-loader/lib??vue-loader-options!./src/components/index.vue?vue&type=script&lang=js ***!
+  \************************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, exports) {
+
+eval("throw new Error(\"Module build failed: SyntaxError: E:/learning--software/wamp/www/day-practice/repeatWebpack/src/components/index.vue: function is a reserved word (31:2)\\n\\n\\u001b[0m \\u001b[90m 29 | \\u001b[39m\\t}\\u001b[33m,\\u001b[39m\\n \\u001b[90m 30 | \\u001b[39m\\tmethods\\u001b[33m:\\u001b[39m {\\n\\u001b[31m\\u001b[1m>\\u001b[22m\\u001b[39m\\u001b[90m 31 | \\u001b[39m\\t\\t\\u001b[36mfunction\\u001b[39m getData() {\\n \\u001b[90m    | \\u001b[39m\\t\\t\\u001b[31m\\u001b[1m^\\u001b[22m\\u001b[39m\\n \\u001b[90m 32 | \\u001b[39m\\t\\t\\taxios\\u001b[33m.\\u001b[39mget(\\u001b[32m\\\"/items/list\\\"\\u001b[39m)\\u001b[33m.\\u001b[39mthen(res \\u001b[33m=>\\u001b[39m { \\u001b[90m// 返回值是一个promise对象，使用then方法来调用\\u001b[39m\\n \\u001b[90m 33 | \\u001b[39m\\t\\t\\t\\t\\u001b[36mthis\\u001b[39m\\u001b[33m.\\u001b[39mcarData \\u001b[33m=\\u001b[39m \\u001b[33mJSON\\u001b[39m\\u001b[33m.\\u001b[39mparse(res\\u001b[33m.\\u001b[39mdata)\\u001b[33m.\\u001b[39mdata\\u001b[33m;\\u001b[39m\\n \\u001b[90m 34 | \\u001b[39m\\t\\t\\t\\t\\u001b[36mconst\\u001b[39m carJson \\u001b[33m=\\u001b[39m \\u001b[36mthis\\u001b[39m\\u001b[33m.\\u001b[39mcarData\\u001b[33m;\\u001b[39m\\u001b[0m\\n\");//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiIuL25vZGVfbW9kdWxlcy9fYmFiZWwtbG9hZGVyQDcuMS40QGJhYmVsLWxvYWRlci9saWIvaW5kZXguanMhLi9ub2RlX21vZHVsZXMvX3Z1ZS1sb2FkZXJAMTUuMC4xMUB2dWUtbG9hZGVyL2xpYi9pbmRleC5qcz8/dnVlLWxvYWRlci1vcHRpb25zIS4vc3JjL2NvbXBvbmVudHMvaW5kZXgudnVlP3Z1ZSZ0eXBlPXNjcmlwdCZsYW5nPWpzLmpzIiwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///./node_modules/_babel-loader@7.1.4@babel-loader/lib/index.js!./node_modules/_vue-loader@15.0.11@vue-loader/lib/index.js??vue-loader-options!./src/components/index.vue?vue&type=script&lang=js\n");
+
+/***/ })
+
+})

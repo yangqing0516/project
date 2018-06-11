@@ -1,0 +1,241 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  text-decoration: none;
+  box-sizing: border-box;
+  font-size: .12rem;
+  font-weight: 400;
+  font-style: normal;
+  font-family: "Microsoft Yahei";
+  text-size-adjust: 100%;
+}
+
+body {
+  min-width: 320px;
+}
+
+ul,
+li {
+  list-style: none;
+}
+
+html {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  user-select: none;
+  font-size: 625%;
+}
+
+img,
+div,
+body,
+html,
+ul,
+li,
+a {
+  -webkit-touch-callout: none;
+}
+
+input,
+button {
+  outline: 0;
+}
+
+button {
+  cursor: pointer;
+}
+
+input::-webkit-input-placeholder,
+textarea::-webkit-input-placeholder {
+  color: #ccc;
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+
+.wrap {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+header {
+  width: 100%;
+  height: .8rem;
+  display: flex;
+  flex-direction: column;
+  background: #D80A1E;
+  color: #FFFFFF;
+}
+
+header .top {
+  width: 100%;
+  height: .5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 .05rem;
+  font-size: .18rem;
+}
+
+header .top span {
+  font-size: .14rem;
+}
+
+header .down {
+  width: 100%;
+  height: .3rem;
+  line-height: .3rem;
+  padding: 0 .05rem;
+  font-size: .2rem;
+}
+
+header .down p {
+  font-size: .14rem;
+}
+
+section {
+  flex: 1;
+  overflow-y: scroll;
+}
+
+section .slide img {
+  width: 100%;
+  height: auto;
+}
+
+section .con {
+  width: 100%;
+  height: auto;
+}
+
+section .con ol {
+  width: 100%;
+}
+
+section .con ol li {
+  width: 100%;
+  height: .5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+section .con ol li p:first-child {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 .04rem;
+}
+
+section .con ol li p:last-child {
+  padding-left: .04rem;
+}
+
+section .tit {
+  width: 100%;
+  height: .4rem;
+  background: #FFE1E1;
+  color: #D20F1D;
+  line-height: .4rem;
+  padding-left: .04rem;
+}
+
+section .differentTimeFrames {
+  width: 100%;
+  height: auto;
+}
+
+section .differentTimeFrames .differentTime {
+  width: 100%;
+  height: .5rem;
+  position: relative;
+  overflow: hidden;
+}
+
+section .differentTimeFrames .differentTime .topDate {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background: #F1F1F1;
+}
+
+section .differentTimeFrames .differentTime .topDate span {
+  flex-shrink: 0;
+  padding: 0 .05rem;
+  color: #8B8B8B;
+}
+
+section .differentTimeFrames .bottomMovie .attention {
+  height: .4rem;
+  line-height: .4rem;
+  color: #B7B7B7;
+  padding-left: .1rem;
+}
+
+section .differentTimeFrames .bottomMovie .time {
+  width: 100%;
+  height: auto;
+  padding: .05rem 0;
+  border-bottom: 1.5px dashed #C5C5C5;
+}
+
+section .differentTimeFrames .bottomMovie .time:last-child {
+  border-bottom: 0;
+}
+
+section .differentTimeFrames .bottomMovie .time .all {
+  width: 95%;
+  margin: 0 auto;
+  height: auto;
+  display: flex;
+}
+
+section .differentTimeFrames .bottomMovie .time .all p {
+  flex: 1;
+}
+
+section .differentTimeFrames .bottomMovie .time .all p:nth-of-type(1), section .differentTimeFrames .bottomMovie .time .all p:nth-of-type(2), section .differentTimeFrames .bottomMovie .time .all p:nth-of-type(3) {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  padding-left: .02rem;
+}
+
+section .differentTimeFrames .bottomMovie .time .all p:nth-of-type(1) span, section .differentTimeFrames .bottomMovie .time .all p:nth-of-type(2) span {
+  font-weight: bolder;
+  font-size: .15rem;
+}
+
+section .differentTimeFrames .bottomMovie .time .all p:nth-of-type(1) em, section .differentTimeFrames .bottomMovie .time .all p:nth-of-type(2) em {
+  color: #8B8B8B;
+}
+
+section .differentTimeFrames .bottomMovie .time .all p:nth-of-type(3) span:nth-of-type(1) {
+  font-size: .16rem;
+  color: #D20F1D;
+}
+
+section .differentTimeFrames .bottomMovie .time .all p:nth-of-type(3) span:nth-of-type(1) b {
+  font-size: .12rem;
+  font-weight: 600;
+}
+
+section .differentTimeFrames .bottomMovie .time .all p:nth-of-type(3) span:nth-of-type(3) {
+  color: #8B8B8B;
+}
+
+section .differentTimeFrames .bottomMovie .time .all p:nth-of-type(4) {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+section .differentTimeFrames .bottomMovie .time .all p:nth-of-type(4) span {
+  display: inline-block;
+  padding: .05rem .1rem;
+  border: 1px solid #000;
+}
