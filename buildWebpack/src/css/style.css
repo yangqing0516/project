@@ -1,0 +1,266 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  text-decoration: none;
+  box-sizing: border-box;
+  font-size: .12rem;
+  font-weight: 400;
+  font-style: normal;
+  font-family: "Microsoft Yahei";
+  text-size-adjust: 100%;
+}
+
+body {
+  min-width: 320px;
+}
+
+ul,
+li {
+  list-style: none;
+}
+
+html {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  user-select: none;
+  font-size: 625%;
+}
+
+img,
+div,
+body,
+html,
+ul,
+li,
+a {
+  -webkit-touch-callout: none;
+}
+
+input,
+button {
+  outline: 0;
+}
+
+button {
+  cursor: pointer;
+}
+
+input::-webkit-input-placeholder,
+textarea::-webkit-input-placeholder {
+  color: #ccc;
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+
+.wrap {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+header {
+  width: 100%;
+  height: .5rem;
+  display: flex;
+  align-items: center;
+}
+
+header > a:nth-of-type(1) {
+  width: .8rem;
+  height: .5rem;
+  line-height: .5rem;
+  text-align: center;
+}
+
+header > a:nth-of-type(1) img {
+  width: .7rem;
+  height: auto;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+header > a:nth-of-type(2) {
+  width: .5rem;
+  height: .5rem;
+  text-align: center;
+  line-height: .5rem;
+  color: #FFB830;
+  font-size: .14rem;
+}
+
+header form {
+  position: relative;
+  flex: 1;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+
+header form input {
+  width: 100%;
+  height: .3rem;
+  background: #F3F3F3;
+  border: 0;
+  border: 1px solid #ccc;
+  border-radius: .15rem;
+  padding-left: .06rem;
+  color: #757575;
+}
+
+header form .icon {
+  position: absolute;
+  right: .1rem;
+  top: .154rem;
+  color: #B5B5B5;
+  font-weight: 800;
+}
+
+section {
+  flex: 1;
+  overflow-y: scroll;
+}
+
+section .swiper-slide img {
+  width: 100%;
+  height: auto;
+}
+
+section .nav-li {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-wrap: wrap;
+  padding: .08rem 0;
+}
+
+section .nav-li dl {
+  width: 25%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: .04rem 0;
+}
+
+section .navBars {
+  width: 100%;
+  height: .3rem;
+  line-height: .3rem;
+  text-align: center;
+  background: #F8F8F8;
+  color: #979797;
+}
+
+section .content {
+  width: 100%;
+  height: auto;
+}
+
+section .content .content_page {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  padding: .05rem 0;
+  border-bottom: 1px dashed #f5f5f5;
+}
+
+section .content .content_page:last-child {
+  border-bottom: 0;
+}
+
+section .content .content_page .title {
+  width: 100%;
+  height: .3rem;
+  display: flex;
+  justify-content: space-between;
+  padding-left: .05rem;
+  align-items: center;
+}
+
+section .content .content_page .title span {
+  background: #F7CB35;
+  padding: .02rem .05rem;
+  color: #fff;
+  border-radius: .04rem 0 0 .04rem;
+}
+
+section .content .content_page dl {
+  width: 100%;
+  height: auto;
+  display: flex;
+  padding: 0 .05rem;
+}
+
+section .content .content_page dl dt img {
+  width: 1.1rem;
+  height: auto;
+}
+
+section .content .content_page dl dd {
+  padding: 0 .1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+section .content .content_page dl dd h1 {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+  overflow: hidden;
+}
+
+section .content .content_page dl dd p {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+section .content .content_page dl dd p b {
+  padding-right: .05rem;
+}
+
+section .content .content_page dl dd p b em {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+section .content .content_page dl dd p b img {
+  width: .17rem;
+  height: .17rem;
+  border-radius: 50%;
+  vertical-align: middle;
+}
+
+.logo {
+  width: 1.65rem;
+  height: .6rem;
+  position: fixed;
+  bottom: .4rem;
+  left: 50%;
+  margin-left: -.825rem;
+}
+
+.logo img {
+  width: 100%;
+  height: auto;
+}
+
+.swiper-container-horizontal > .swiper-scrollbar {
+  position: absolute;
+  left: 21%;
+  bottom: 3px;
+  z-index: 50;
+  height: 5px;
+  width: 58%;
+}
+
+.swiper-scrollbar-drag {
+  background: #FFA630;
+}
