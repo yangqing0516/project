@@ -8,6 +8,8 @@ const ExtractTextWebpackPlugin = require("extract-text-webpack-plugin");
 const FriendlyErrorsWebpackPlugin = require('friendly-errors-webpack-plugin');
 // 加载vue文件的
 const VueLoaderPlugin = require('vue-loader/lib/plugin');
+// 起服务是webpack显示百分比
+const BitBarWebpackProgressPlugin = require("bitbar-webpack-progress-plugin");
 // 热更新
 const HMR = webpack.HotModuleReplacementPlugin;
 module.exports = {
@@ -108,9 +110,11 @@ module.exports = {
     new FriendlyErrorsWebpackPlugin({
       compilationSuccessInfo: {
         // 显示成功信息
-        messages: ["You application is running here localhost:8080"]
+        messages: ["You application is running here http://localhost:8080"]
       }
     }),
+    // 显示百分比
+    new BitBarWebpackProgressPlugin(),
     // 分离cdd
     new ExtractTextWebpackPlugin('newStyle.css'),
     // 大伯html文件
