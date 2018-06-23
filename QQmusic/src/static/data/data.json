@@ -1,0 +1,22 @@
+[{
+    "url": "../../static/img/haier.jpg",
+    "tit": "Haier/海尔BCD-258WDPM三门节能三开门风冷无霜小型冰箱家用",
+    "tip": "风冷无霜 智能杀菌 冷冻速度快 中门变温",
+    "isCheck": false,
+    "num": 1,
+    "price": "2299"
+}, {
+    "url": "../../static/img/meidi.jpg",
+    "tit": "Midea/美的 BCD-213TM(E) 节能静音家用三开门小冰箱小型电冰箱",
+    "tip": "分类保鲜，节能静音 ，三门三温",
+    "isCheck": true,
+    "num": 0,
+    "price": "1999"
+}, {
+    "url": "../../static/img/kjia.jpg",
+    "tit": "Konka/康佳 BCD-288GY4S三门冰箱家用双门多门对开门双开门电冰箱",
+    "tip": "【品质康佳】大气机身 法式多门 中门养鲜",
+    "isCheck": true,
+    "num": 0,
+    "price": "1599"
+}]

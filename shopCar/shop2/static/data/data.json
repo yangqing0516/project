@@ -1,0 +1,25 @@
+﻿[
+{
+  "name": "Gree/格力 KFR-35GW/NhBaD3 大1.5匹空调挂机冷暖型定速家用风采",
+  "price": 2790,
+  "count": 0,
+  "isCheck": false,
+  "url": "./static/image/geli.jpg",
+  "describe": "经典定频冷暖 上下扫风 节能省电"
+},
+{
+  "name": "Haier/海尔 KFR-32GW/16TMAAL13U1 小1.5匹冷暖型壁挂式空调",
+  "price": 2099,
+  "count": 2,
+  "isCheck": true,
+  "url": "./static/image/haier.jpg",
+  "describe": "自清洁 阿里直连WiFi 一键PMV"
+},
+{
+  "name": "海尔小超人 KFR-32GW/10FDD21AXU1小1.5匹一级能效变频壁挂式空调",
+  "price": 2799,
+  "count": 0,
+  "url": "./static/image/xiaochaoren.jpg",
+  "describe": "稀土高效压缩机 17分贝静音 1级变频",
+  "isCheck": false
+}]
