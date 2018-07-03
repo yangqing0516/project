@@ -1,0 +1,930 @@
+{
+  "data": [{
+      "count": 1,
+      "uninterest_reasons": [],
+      "target": {
+        "relationship": {
+          "voting": 0,
+          "is_thanked": false,
+          "is_nothelp": false,
+          "upvoted_followee_ids": []
+        },
+        "mark_infos": [],
+        "excerpt": "你们难道都没有注意到，大家都在那聊天只有杨颖一人在桌子下偷偷玩手机么？？？？？ [图片] 大家都在看向说话的人，这是最基本的尊重。 注意，手机上没有任何通知消息，单纯的玩 ！",
+        "created_time": 1530455547,
+        "updated_time": 1530457657,
+        "id": 431415092,
+        "voteup_count": 1390,
+        "can_comment": {
+          "status": true,
+          "reason": ""
+        },
+        "author": {
+          "headline": "",
+          "avatar_url": "https://pic4.zhimg.com/aadd7b895_s.jpg",
+          "name": "匿名用户",
+          "url": "",
+          "type": "people",
+          "user_type": "people",
+          "id": "0"
+        },
+        "url": "https://api.zhihu.com/answers/431415092",
+        "comment_permission": "all",
+        "question": {
+          "author": {
+            "is_followed": false,
+            "badge": [],
+            "name": "PuRe",
+            "url": "https://api.zhihu.com/people/851f6d2478df831764f0348d60ecd30b",
+            "url_token": "pure-61-71",
+            "user_type": "people",
+            "headline": "一个有梦有远方的高中生.",
+            "avatar_url": "https://pic4.zhimg.com/v2-f918c98568c686da5ffb8202fa61fb44_b.jpg",
+            "is_following": false,
+            "is_org": false,
+            "gender": 0,
+            "type": "people",
+            "id": "851f6d2478df831764f0348d60ecd30b"
+          },
+          "bound_topic_ids": [
+            22839,
+            59343,
+            182145,
+            221079
+          ],
+          "title": "如何评价杨颖 (Angelababy) 与倪妮在《向往的生活》第二季中的表现?",
+          "excerpt": "",
+          "answer_count": 354,
+          "created": 1530374435,
+          "url": "https://api.zhihu.com/questions/283371654",
+          "comment_count": 6,
+          "is_following": false,
+          "follower_count": 577,
+          "type": "question",
+          "id": 283371654
+        },
+        "preview_type": "default",
+        "content": "<p>你们难道都没有注意到，大家都在那聊天</p><p>只有杨颖一人在桌子下偷偷玩手机么？？？？？</p><figure><img src=\"https://pic4.zhimg.com/50/v2-024b334c60249f5713e525e769d89182_b.jpg\" data-rawwidth=\"1920\" data-rawheight=\"1080\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"1920\" data-original=\"https://pic4.zhimg.com/50/v2-024b334c60249f5713e525e769d89182_r.jpg\"></figure><p>大家都在看向说话的人，这是最基本的尊重。</p><p><br></p><p>注意，手机上没有任何通知消息，单纯的玩 ！</p>",
+        "comment_count": 90,
+        "reshipment_settings": "allowed",
+        "thanks_count": 49,
+        "excerpt_new": "你们难道都没有注意到，大家都在那聊天只有杨颖一人在桌子下偷偷玩手机么？？？？？ [图片] 大家都在看向说话的人，这是最基本的尊重。 注意，手机上没有任何通知消息，单纯的玩 ！",
+        "preview_text": "",
+        "is_copyable": true,
+        "type": "answer",
+        "thumbnail": "https://pic4.zhimg.com/v2-3eaf1ed05203b61ae9a31246e7a76228_200x112.jpg"
+      },
+      "show_actor_time": false,
+      "action_text_tpl": "热门内容, 来自: {}",
+      "brief": "{\"source\": \"TS\", \"type\": \"answer\", \"id\": 431415092}",
+      "updated_time": 1530487917,
+      "verb": "GUEST_HOME_FEED_ANSWER",
+      "actors": [{
+        "follow_interest": {
+          "is_followed": false
+        },
+        "name": "综艺",
+        "url": "https://api.zhihu.com/topics/19618569",
+        "excerpt": "",
+        "introduction": "综艺指综合多种艺术成分所构成的艺术。如电影、声乐、戏剧、建筑等。同时兼用视觉和听觉感受的艺术。现如今通常专指娱乐方面如电影、音乐、电视节目等都被称作为综艺的简称。",
+        "avatar_url": "https://pic2.zhimg.com/a4939b69ea2eb04c6dbed2219b64c43c",
+        "type": "topic",
+        "id": "19618569"
+      }],
+      "attached_info": "ClEQBBoJMTA4NTA3OTc1IPvL49kFKO4KQABSFmd1ZXN0X2hvbWVfZmVlZF9hbnN3ZXJaCDI1MjQ3NzAzcgk0MzE0MTUwOTKKAQkyODMzNzE2NTQ=",
+      "offset": 0,
+      "created_time": 1530487917,
+      "type": "feed",
+      "id": "0_1530487917.1"
+    },
+    {
+      "count": 1,
+      "uninterest_reasons": [],
+      "target": {
+        "relationship": {
+          "voting": 0,
+          "is_thanked": false,
+          "is_nothelp": false,
+          "upvoted_followee_ids": []
+        },
+        "mark_infos": [],
+        "excerpt": "哪来这么多歪心眼，还我瘦了不想让别人瘦然后还分享自己的虚荣的。 劝别减肥的原因就是我真的觉得你！不！胖！！真的不！胖！！！不！！胖！！！ 不是所有人都觉得越瘦越好的好吧！瘦不是唯一的审美观好吧！！现在很多人被社会审美绑架之后，只会觉得瘦才是唯一的正确，胖就是原罪。既然我自己这么觉…",
+        "created_time": 1530417188,
+        "updated_time": 1530417188,
+        "id": 430956904,
+        "voteup_count": 838,
+        "can_comment": {
+          "status": true,
+          "reason": ""
+        },
+        "author": {
+          "is_followed": false,
+          "badge": [],
+          "name": "有灰机",
+          "url": "https://api.zhihu.com/people/2ea02e90a5b109d325008396f2f07235",
+          "url_token": "you-hui-ji-a",
+          "user_type": "people",
+          "headline": "伪文青",
+          "avatar_url": "https://pic1.zhimg.com/f56d60dd9_b.jpg",
+          "is_following": false,
+          "is_org": false,
+          "gender": 0,
+          "type": "people",
+          "id": "2ea02e90a5b109d325008396f2f07235"
+        },
+        "url": "https://api.zhihu.com/answers/430956904",
+        "comment_permission": "all",
+        "question": {
+          "author": {
+            "is_followed": false,
+            "badge": [],
+            "name": "兰森修炼手记",
+            "url": "https://api.zhihu.com/people/8bbbc9edfe1779665f9595566796e7e8",
+            "url_token": "Branson-up",
+            "user_type": "people",
+            "headline": "努力修炼的90后男子一枚",
+            "avatar_url": "https://pic1.zhimg.com/v2-bd6e11db8e4fd905bb9daabc670b6c24_b.jpg",
+            "is_following": false,
+            "is_org": false,
+            "gender": 1,
+            "type": "people",
+            "id": "8bbbc9edfe1779665f9595566796e7e8"
+          },
+          "bound_topic_ids": [
+            974
+          ],
+          "title": "那些劝女孩子别减肥的人到底是什么心态？",
+          "excerpt": "",
+          "answer_count": 902,
+          "created": 1524835428,
+          "url": "https://api.zhihu.com/questions/275040118",
+          "comment_count": 23,
+          "is_following": false,
+          "follower_count": 1495,
+          "type": "question",
+          "id": 275040118
+        },
+        "preview_type": "default",
+        "content": "<p>哪来这么多歪心眼，还我瘦了不想让别人瘦然后还分享自己的虚荣的。</p><p><br></p><p>劝别减肥的原因就是我真的觉得你！不！胖！！</p><p>真的不！胖！！！</p><p>不！！胖！！！</p><p><br></p><p>不是所有人都觉得越瘦越好的好吧！</p><p>瘦不是唯一的审美观好吧！！</p><p>现在很多人被社会审美绑架之后，只会觉得瘦才是唯一的正确，胖就是原罪。既然我自己这么觉得，那么全世界所有人都和我一样，如果劝我不要减肥那就是阻止我进步。</p><p><br></p><p>再说很多觉得自己胖的人，明明就是正常的健康体重。</p><p><br></p><p>不过老是有这样的观念。。那自然是想不通的。</p><p><br></p><p>另外就是人和人是有个体差异的。</p><p>同样的努力或者不努力下，每个人身材就是不一样。而瘦子往往会倾向于把这些归结为自律，但实际上在先天条件上每个人都是不一样的。而我家亲戚里面也有那种有些一米五几七八十斤的人，无论如何都吃不胖。这种体质够让人羡慕吧。但是这样的身体状态真的不好，非常弱。我不希望健康的人把自己折腾成这样。</p><p><br></p><p>绝大部分减肥的人都是徒劳的，即使减肥成功，多数人在几年之内也会成功恢复到初始体重。</p><p><br></p><p>美国减肥节目的第八季的参赛选手，14人中13人成功反弹。</p><p><a href=\"http://link.zhihu.com/?target=https%3A//www.sohu.com/a/152029716_99922649\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://www.</span><span class=\"visible\">sohu.com/a/152029716_99</span><span class=\"invisible\">922649</span><span class=\"ellipsis\"></span></a></p><p><br></p><p>所以，本来减肥就没什么意义，为何要减肥</p><p></p>",
+        "comment_count": 100,
+        "reshipment_settings": "allowed",
+        "thanks_count": 36,
+        "excerpt_new": "哪来这么多歪心眼，还我瘦了不想让别人瘦然后还分享自己的虚荣的。 劝别减肥的原因就是我真的觉得你！不！胖！！真的不！胖！！！不！！胖！！！ 不是所有人都觉得越瘦越好的好吧！瘦不是唯一的审美观好吧！！现在很多人被社会审美绑架之后，只会觉得瘦才是唯一的正确，胖就是原罪。既然我自己这么觉…",
+        "preview_text": "",
+        "is_copyable": true,
+        "type": "answer",
+        "thumbnail": null
+      },
+      "show_actor_time": false,
+      "action_text_tpl": "热门内容, 来自: {}",
+      "brief": "{\"source\": \"TS\", \"type\": \"answer\", \"id\": 430956904}",
+      "updated_time": 1530487917,
+      "verb": "GUEST_HOME_FEED_ANSWER",
+      "actors": [{
+        "follow_interest": {
+          "is_followed": false
+        },
+        "name": "减肥",
+        "url": "https://api.zhihu.com/topics/19553128",
+        "excerpt": "",
+        "introduction": "减肥属于以减少人体过度的脂肪、体重为目的的行为方式。适度减重可降低患肥胖症的风险，也可提高有肥胖并发症的患者的健康水平。市场上有各类不同的减肥理念、减肥产品，请审慎选择。过度、过快减肥会对身体有不良影响。采纳科学的正确的减肥方式，警惕对于假设阶段、未经证明的减肥观念。",
+        "avatar_url": "https://pic2.zhimg.com/v2-2d3ebd0ce19acd0cbce75da4e40e5ea9.jpg",
+        "type": "topic",
+        "id": "19553128"
+      }],
+      "attached_info": "ClEQBBoJMTA4NDI0ODA0IKSg4dkFKMYGQAFSFmd1ZXN0X2hvbWVfZmVlZF9hbnN3ZXJaCDIzMzk1NjY5cgk0MzA5NTY5MDSKAQkyNzUwNDAxMTg=",
+      "offset": 1,
+      "created_time": 1530487917,
+      "type": "feed",
+      "id": "1_1530487917.13"
+    },
+    {
+      "count": 1,
+      "uninterest_reasons": [],
+      "target": {
+        "relationship": {
+          "voting": 0,
+          "is_thanked": false,
+          "is_nothelp": false,
+          "upvoted_followee_ids": []
+        },
+        "mark_infos": [],
+        "excerpt": "标签是西游记（书籍），姑且认为题主问的是吴承恩版的西游记。所以结论是：没错，唐僧就是一反面形象，或者说至少在多数章节里是反面成分（人性中恶劣的部分）居多的形象——西游记借鉴了很多不同来源的内容，一些章节设定和主线并不一致。理由嘛，贯穿原著始终，拿个例子：猴子打死二十个强盗，唐僧…",
+        "created_time": 1529985773,
+        "updated_time": 1530085818,
+        "id": 426783018,
+        "voteup_count": 1679,
+        "can_comment": {
+          "status": true,
+          "reason": ""
+        },
+        "author": {
+          "is_followed": false,
+          "badge": [],
+          "name": "ace zh",
+          "url": "https://api.zhihu.com/people/afd0d6701a386dbbca611eda226f7304",
+          "url_token": "ace-zh",
+          "user_type": "people",
+          "headline": "在路上",
+          "avatar_url": "https://pic4.zhimg.com/v2-7f745182660adf2901b33de96a4eb380_b.jpg",
+          "is_following": false,
+          "is_org": false,
+          "gender": 1,
+          "type": "people",
+          "id": "afd0d6701a386dbbca611eda226f7304"
+        },
+        "url": "https://api.zhihu.com/answers/426783018",
+        "comment_permission": "followee",
+        "question": {
+          "author": {
+            "is_followed": false,
+            "badge": [],
+            "name": "王辉",
+            "url": "https://api.zhihu.com/people/08f3b4736c8b3d7dde4d5c9101b27842",
+            "url_token": "wang-hui-58-98",
+            "user_type": "people",
+            "headline": "轻武器科普作者",
+            "avatar_url": "https://pic2.zhimg.com/v2-3468e2419b70103b1177fce303e17d46_b.jpg",
+            "is_following": false,
+            "is_org": false,
+            "gender": 1,
+            "type": "people",
+            "id": "08f3b4736c8b3d7dde4d5c9101b27842"
+          },
+          "bound_topic_ids": [
+            2279
+          ],
+          "title": "为什么唐僧对妖怪仁慈，对孙悟空残忍？",
+          "excerpt": "",
+          "answer_count": 124,
+          "created": 1507192004,
+          "url": "https://api.zhihu.com/questions/66234417",
+          "comment_count": 1,
+          "is_following": false,
+          "follower_count": 373,
+          "type": "question",
+          "id": 66234417
+        },
+        "preview_type": "default",
+        "content": "<p>标签是西游记（书籍），姑且认为题主问的是吴承恩版的西游记。所以结论是：没错，<b>唐僧就是一反面形象，</b>或者说至少在多数章节里是反面成分（人性中恶劣的部分）居多的形象——西游记借鉴了很多不同来源的内容，一些章节设定和主线并不一致。</p><p>理由嘛，贯穿原著始终，拿个例子：猴子打死二十个强盗，唐僧搓土祷告：“<i>你到森罗殿下兴词，倒树寻根，他姓孙，我姓陈，各居异姓。冤有头，债有主，切莫告我取经僧人。</i>”</p><p><b>这在塑造慈悲为怀的高僧大德？或者退一步说是在塑造一个无原则心慈手软的大和尚？这笔法简直明显到快要戳到读者鼻尖上了，是在讽喻影射一些怕事官吏，遇到麻烦先把自己摘干净的嘴脸。</b></p><p>猴子的反应呢？</p><p><i>攥着铁棒，望那坟上捣了三下，道：“遭瘟的强盗，你听着！我被你前七八棍，后七八棍，打得我不疼不痒的，触恼了性子，一差二误，将你打死了，尽你到那里去告，我老孙实是不怕：玉帝认得我，天王随得我；二十八宿惧我，九曜星官怕我；府县城隍跪我，东岳天齐怖我；十代阎君曾与我为仆从，五路猖神曾与我当后生；不论三界五司，十方诸宰，都与我情深面熟，随你那里去告！”</i></p><p><b>当场打脸！</b></p><p><b>不妨想象一下作者写出这段文字的时候一脸爽快的表情。</b></p><p>要说唐僧也是金蝉子转世，官面身份地位比孙悟空高得多。这样小家子气的描写，作者的立场已经足够明显了。反面形象就得是穷形恶相成天琢磨毁灭世界或者绑架女主？就不能是骨子里流着市侩的高僧？开篇给你个人物关系列表，指名道姓告诉你这个是好人那个是坏蛋，还能叫名著？</p><p>再考虑明清小说的受众，是给老学究挖空心思研究的？是供后世半瓶子文学批评家高屋建瓴夸夸其谈的？吴承恩是想写一部四书五经一样的经典开宗立派？显然不是，明清小说是给贩夫走卒纨绔少年后院姨太读来消遣的，<b>老百姓喜闻乐见的神佛妖怪背后，都是市井人情</b>，你用佛家道家正统的三观去评价西游必然是缘木求鱼。西游，说到底还是符合绝大多数民众性情的民间文学。对于西游，不反对一字一句的剖析，但是不赞成端着“高度”去解读。</p><p>至于杨洁老师的版本，对唐僧的性格、悟空/八戒/沙僧的形象、神佛之间的龃龉龌龊、以及师徒四人之间的关系，都进行了大刀阔斧的再创造。一来考虑大众的审美品位，二来作为电视剧，同样的文字读起来力道正好，原封不动的拍成影视，就会太过暗黑和赤裸，这是不同艺术手法决定的。</p><p>可以说，吴承恩写的是名著，杨导拍的也是神作，二者人物形象迥异，但都是难得的好作品。</p><h2>说起杨洁导演，扯两句不吐不快的题外话。86版《西游记》，杨洁导演居功至伟。从编剧到执导到后期雕琢，乃至从演员到配音到演唱到剧组的经费统筹，贡献无人能及。孙悟空的形象，是杨导力排众议，抛弃普遍认可的偏戏剧化形象，重新塑造了一个电视剧化的、人性味十足的孙悟空。因为身体原因（年轻时肺部动过大手术），杨导可以说是用生命在拍戏，短短25集，历时六年，呕心沥血。然而，鲜花和荣誉归于演员也就罢了，毕竟幕后工作者多有这样的悲哀。让人喟叹的是，几位刚刚由此成名的“艺术家”因为急于走穴赚钱和杨导发生不愉快，乃至利用走红后的地位和话语权抱团排挤杨导，着实让人心寒。去年，杨洁导演离世了。这位电视剧版孙悟空形象的真正缔造者……只能送一声长叹，祝一路安好。</h2><p>小逸事，女儿国那首美得不要不要的插曲《女儿情》也是杨导填词，还有开头曲那个标志性的“噔噔噔——”审批的时候也被批说是电音“不符合传统”，杨导跟上级吵了一架才保下来的。</p>",
+        "comment_count": 0,
+        "reshipment_settings": "need_payment",
+        "thanks_count": 146,
+        "excerpt_new": "标签是西游记（书籍），姑且认为题主问的是吴承恩版的西游记。所以结论是：没错，唐僧就是一反面形象，或者说至少在多数章节里是反面成分（人性中恶劣的部分）居多的形象——西游记借鉴了很多不同来源的内容，一些章节设定和主线并不一致。理由嘛，贯穿原著始终，拿个例子：猴子打死二十个强盗，唐僧…",
+        "preview_text": "",
+        "is_copyable": false,
+        "type": "answer",
+        "thumbnail": null
+      },
+      "show_actor_time": false,
+      "action_text_tpl": "热门内容, 来自: {}",
+      "brief": "{\"source\": \"TS\", \"type\": \"answer\", \"id\": 426783018}",
+      "updated_time": 1530487917,
+      "verb": "GUEST_HOME_FEED_ANSWER",
+      "actors": [{
+        "follow_interest": {
+          "is_followed": false
+        },
+        "name": "西游记（书籍）",
+        "url": "https://api.zhihu.com/topics/19557035",
+        "excerpt": "",
+        "introduction": "《西游记》是一部古典神魔小说，中国四大名著之一，作者吴承恩，成书于明朝中期。",
+        "avatar_url": "https://pic2.zhimg.com/v2-fa379e5d29af345478af546c52a25f5a.jpg",
+        "type": "topic",
+        "id": "19557035"
+      }],
+      "attached_info": "ClAQBBoJMTA3NjY1ODAzIO31xtkFKI8NQAJSFmd1ZXN0X2hvbWVfZmVlZF9hbnN3ZXJaCDE4NzIwNjg0cgk0MjY3ODMwMTiKAQg2NjIzNDQxNw==",
+      "offset": 2,
+      "created_time": 1530487917,
+      "type": "feed",
+      "id": "2_1530487917.16"
+    },
+    {
+      "count": 1,
+      "uninterest_reasons": [],
+      "target": {
+        "relationship": {
+          "voting": 0,
+          "is_thanked": false,
+          "is_nothelp": false,
+          "upvoted_followee_ids": []
+        },
+        "mark_infos": [],
+        "excerpt": "这两个是没有可比性的，无论是地位、经费还是科研产出，都是如此。但这一切还是有原因的。 地位中国国家航天局国务院部委管理的国家局，副部级单位，领导一般由工信部副部长兼职（一般兼职数个单位，航天局只是其中之一）。同级单位：国家海洋局，国家外国专家局，国家语言文字工作委员会等。 美国国…",
+        "created_time": 1530439816,
+        "updated_time": 1530467456,
+        "id": 431235718,
+        "voteup_count": 1038,
+        "can_comment": {
+          "status": true,
+          "reason": ""
+        },
+        "author": {
+          "is_followed": false,
+          "badge": [{
+              "type": "identity",
+              "description": "代尔夫特理工大学 航天工程博士在读"
+            },
+            {
+              "topics": [],
+              "type": "best_answerer",
+              "description": "优秀回答者"
+            }
+          ],
+          "name": "太空精酿",
+          "url": "https://api.zhihu.com/people/8d6c76cdbb9f2749913578358a4adb50",
+          "url_token": "pi-bo-shi-tai-kong-jing-niang",
+          "user_type": "people",
+          "headline": "微博：太空精酿",
+          "avatar_url": "https://pic1.zhimg.com/113921d2c6d52942b651c6235c93684e_b.jpg",
+          "is_following": false,
+          "is_org": false,
+          "gender": 1,
+          "type": "people",
+          "id": "8d6c76cdbb9f2749913578358a4adb50"
+        },
+        "url": "https://api.zhihu.com/answers/431235718",
+        "comment_permission": "all",
+        "question": {
+          "author": {
+            "is_followed": false,
+            "badge": [],
+            "name": "起名好难",
+            "url": "https://api.zhihu.com/people/e41fbba3915f10c693cb84ee7c95be89",
+            "url_token": "qi-ming-hao-nan-69-46",
+            "user_type": "people",
+            "headline": null,
+            "avatar_url": "https://pic4.zhimg.com/da8e974dc_s.jpg",
+            "is_following": false,
+            "is_org": false,
+            "gender": null,
+            "type": "people",
+            "id": "e41fbba3915f10c693cb84ee7c95be89"
+          },
+          "bound_topic_ids": [
+            574,
+            24600,
+            33865
+          ],
+          "title": "中国航天局和NASA那个更厉害一点？",
+          "excerpt": "",
+          "answer_count": 57,
+          "created": 1530420820,
+          "url": "https://api.zhihu.com/questions/283421389",
+          "comment_count": 2,
+          "is_following": false,
+          "follower_count": 225,
+          "type": "question",
+          "id": 283421389
+        },
+        "preview_type": "default",
+        "content": "<p>这两个是没有可比性的，无论是地位、经费还是科研产出，都是如此。但这一切还是有原因的。</p><p><br></p><ol><li><b>地位</b></li></ol><p><b>中国国家航天局</b></p><p>国务院部委管理的国家局，副部级单位，领导一般由工信部副部长兼职（一般兼职数个单位，航天局只是其中之一）。同级单位：国家海洋局，国家外国专家局，国家语言文字工作委员会等。</p><p><br></p><p><b>美国国家航空航天局</b></p><p>联邦政府的独立机构，由国会单独立法成立，领导由总统任命，它的现任领导Jim Bridenstine是众议院议员（相当于中央委员）。同级单位：中央情报局，美联储，证券交易委员会等。</p><p>但它上面还有个直接领导机构叫做国家太空委员会，副总统（美国二号人物，相当于人大委员长+副总理+副主席）挂帅，相当于中国的中央深化XX小组，而这个太空委员会是川普上任之后重建的（美国历史上第三次建立）。</p><a href=\"https://www.zhihu.com/question/61916767/answer/193191305\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic1.zhimg.com/v2-f0e09fdddcc343499ff2680f64a8463c_180x120.jpg\" data-image-width=\"530\" data-image-height=\"298\" class=\"internal\">如何看待美国重建国家空间委员会（NSC)?</a><p>所以现任副总统几乎三天两头跑NASA去开会、参加活动。</p><p>从地位上说，NASA是美国联邦政府很核心的一个机构，我国航天局只是工信部下属的一个部委单位，还是差很多的。</p><p><br></p><p><b>2. 职责</b></p><p><b>中国国家航天局</b></p><ul><li>研究拟定国家航天政策和法规。</li><li><b>研究制定</b>国家航天发展规划、计划和行业标准。</li><li>重大航天科研项目的组织<b>论证与立项审</b>批，並负责<b>监督、协调</b>重大航天科研项目的执行。</li><li>航天领域政府及国际组织间的交流与合作。</li></ul><p><br></p><p><b>美国国家航空航天局</b></p><p>负责制定、实施美国的民用太空计划、与开展航空科学暨太空科学的研究。</p><p><br></p><p>所以我国的航天局是负责研究、论证、监督和协调，并不直接从事科研。</p><p>NASA是既要负责这些，还要负责实施与开展。</p><p><br></p><p><b>3. 经费</b></p><p><b>中国国家航天局</b></p><p>可以想像，并不需要什么经费，因为只是行政管理开支而已，我们通常说的中国航天预算一年XX亿，不是指航天局的经费。我国航天的钱，绝大部分都是航天科技集团花掉的（军+民），但这个集团是央企，并不是政府机构。</p><p><br></p><p><b>美国国家航空航天局</b></p><p>现在200亿美元级别，毕竟NASA需要做实际的东西，比如大家都知道的火星车、太空望远镜、国际空间站这些。川普上台之后，NASA经费达到近30年最高，可见川普还是很重视民用航天这一块的。</p><p>但要说明，NASA的经费只占美国所有航天经费的一小部分。。军用的烧钱，远超NASA，比如锁眼、GPS、导弹预警卫星等，每一个造价都让人惊掉舌头。哈勃望远镜，都是军方70年代的东西去库存扔给天文学家的。<br></p><p>从这个角度说，美国的确是在经费方面大幅度超过我国，搞出来这么多比较牛逼的东西，再加上人家每年光科普教育的钱都一个亿美元以上，NASA更出名就很正常了。</p><p><br></p><p><b>4. 配套</b></p><p><b>中国国家航天局</b></p><p>主要是我国的航天科技集团，集团下属好几个研究院，一小部分在科工集团，这两年中科院也慢慢参与航天研究，但还是挺少的。</p><p><br></p><p><b>美国国家航空航天局</b></p><p>自己就拥有十大中心，其中光一个喷气推进实验室JPL的东西就已经够吊打全世界了。还有肯尼迪中心、林登约翰逊中心、艾姆斯中心、戈达德中心、马歇尔中心等等。</p><p>主要配套企业还有洛克希德马丁、波音、诺斯罗普格鲁曼、通用动力，这四家差不多是世界前四的军工/防务供应商。还有洛克达因，内华达山脉，以前的轨道科学ATK（被收购）这些。NASA一般提出需求后都是他们来造卫星火箭，NASA负责研究和部分制造。</p><p>像SpaceX这种，在里面连队都排不上，这几年才算露个脸。</p><p><br></p><p>从配套企业上看，拿航天科技集团、科工集团和中科院对标一票世界顶级军火商，还是差挺多的。</p><p><br></p><p><b>5.民众反应</b></p><p><b>中国国家航天局</b></p><p>我国国民的航天觉悟是很落后很落后的，一方面整天指望黑科技，恨不得三天超美。另一方面见不得一点不如意，天宫一号返回期间本人写了几篇文章告诉大家理智看待，评论区画美不看。</p><p>稍微火箭残骸落下来了，开始骂。火箭发射出问题了，定体问。告诉大家钱是怎么花的，西部人民又开始吃草。</p><p>搞得好像美国航天从来就没炸过卫星火箭似的。</p><p><br></p><p><b>美国国家航空航天局</b></p><p>不说美国人了，就看看我国人民对NASA和对我国航天的态度，就大概知道NASA面对的情况好很多。</p><p>看微博上，对比下天天翻译搬运NASA东西的和天天尽心尽力介绍我国航天的账号粉丝数和粉丝态度就知道了。</p><p><br></p><p>所以，中国航天比美国航天弱很多，是由非常多原因导致的，简直是上上下下都有原因。</p><p>就航天人本身而言，中国的工作能力一点都不虚，甚至更加辛苦待遇要差很多，能搞到今天这个地步简直已经是奇迹。只是资源太少（航天在国内地位和经费支持），而且民众并没有看起来那么支持（只愿支持“大新闻黑科技”，一失败就往死里喷）。真要像美国那种花钱方式，不说冷战期间的水平，就现在美国的投入水平，估计很多人都要站起来骂了。</p><p>现在美国航天在川普上台后开始加速，尤其是商业航天一波崛起，我国赶起来，其实难度又大了一些。冰冻三尺非一日之寒，能到跟NASA华山论剑的水平，还需要耐心和慢慢积累。</p>",
+        "comment_count": 76,
+        "reshipment_settings": "need_payment",
+        "thanks_count": 96,
+        "excerpt_new": "这两个是没有可比性的，无论是地位、经费还是科研产出，都是如此。但这一切还是有原因的。 地位中国国家航天局国务院部委管理的国家局，副部级单位，领导一般由工信部副部长兼职（一般兼职数个单位，航天局只是其中之一）。同级单位：国家海洋局，国家外国专家局，国家语言文字工作委员会等。 美国国…",
+        "preview_text": "",
+        "is_copyable": false,
+        "type": "answer",
+        "thumbnail": null
+      },
+      "show_actor_time": false,
+      "action_text_tpl": "热门内容, 来自: {}",
+      "brief": "{\"source\": \"TS\", \"type\": \"answer\", \"id\": 431235718}",
+      "updated_time": 1530487917,
+      "verb": "GUEST_HOME_FEED_ANSWER",
+      "actors": [{
+        "follow_interest": {
+          "is_followed": false
+        },
+        "name": "美国国家航空航天局（NASA）",
+        "url": "https://api.zhihu.com/topics/19551927",
+        "excerpt": "",
+        "introduction": "美国国家航空航天局（英语：National Aeronautics and Space Administration，简称NASA /ˈnæsə/），又称美国宇航局、美国太空总署，是美国联邦政府的一个行政性科研机构，负责制定、实施美国的太空计划，并开展航空科学暨太空科学的研究。1958年7月29日，美国总统艾森豪威尔签署了《美国公共法案85-568》，创立了美国国家航空航天局（NASA）。NASA是目前世界上最权威的航空航天科研机构，与许多国内及国际上的科研机构分享其研究数据。美国国家航空航天局定于当地时间2018年4月16日晚发射“凌日系外行星勘测卫星”，寻找太阳系外行星，期望发现可能孕育生命的“另一个地球”。",
+        "avatar_url": "https://pic2.zhimg.com/f4911b528",
+        "type": "topic",
+        "id": "19551927"
+      }],
+      "attached_info": "ClEQBBoJMTA4NDc1NDY5IIjR4tkFKI4IQANSFmd1ZXN0X2hvbWVfZmVlZF9hbnN3ZXJaCDI1MjU4ODg3cgk0MzEyMzU3MTiKAQkyODM0MjEzODk=",
+      "offset": 3,
+      "created_time": 1530487917,
+      "type": "feed",
+      "id": "3_1530487917.18"
+    },
+    {
+      "count": 1,
+      "uninterest_reasons": [],
+      "target": {
+        "relationship": {
+          "voting": 0,
+          "is_thanked": false,
+          "is_nothelp": false,
+          "upvoted_followee_ids": []
+        },
+        "mark_infos": [],
+        "excerpt": "上半场前44分钟，西班牙控球率75%，传球成功率90%，射门0。我写了这么多年足球和数据，这次还真的是活久见。缺少提速，极度保守，这本身就不是真正的传控足球，更不是西班牙的巅峰水平。更何况，现在顶级足球比赛的节奏越来越快，传控在一场或者两回合定胜负的杯赛里屡屡被快速反击击倒，也是有一定…",
+        "created_time": 1530464798,
+        "updated_time": 1530464798,
+        "id": 431526348,
+        "voteup_count": 310,
+        "can_comment": {
+          "status": true,
+          "reason": ""
+        },
+        "author": {
+          "is_followed": false,
+          "badge": [],
+          "name": "羽则",
+          "url": "https://api.zhihu.com/people/c23142e4f60a1027ab33ddae6ed11353",
+          "url_token": "roland-zhou",
+          "user_type": "people",
+          "headline": "足球数据控，公众号：内德羽则说",
+          "avatar_url": "https://pic4.zhimg.com/v2-2b6df1fa1603c5b6f987a544d272ef28_b.jpg",
+          "is_following": false,
+          "is_org": false,
+          "gender": 1,
+          "type": "people",
+          "id": "c23142e4f60a1027ab33ddae6ed11353"
+        },
+        "url": "https://api.zhihu.com/answers/431526348",
+        "comment_permission": "all",
+        "question": {
+          "author": {
+            "is_followed": false,
+            "badge": [],
+            "name": "北郊吴彦祖",
+            "url": "https://api.zhihu.com/people/1ab7d887b9e56f0d20c0cc3ed2d2f22f",
+            "url_token": "bei-jiao-wu-yan-zu-29",
+            "user_type": "people",
+            "headline": null,
+            "avatar_url": "https://pic4.zhimg.com/da8e974dc_s.jpg",
+            "is_following": false,
+            "is_org": false,
+            "gender": null,
+            "type": "people",
+            "id": "1ab7d887b9e56f0d20c0cc3ed2d2f22f"
+          },
+          "bound_topic_ids": [
+            2955,
+            9958,
+            58402,
+            178064,
+            220771
+          ],
+          "title": "如何评价 2018 年俄罗斯世界杯 1/8 决赛俄罗斯全队表现神勇，点球大战击败西班牙，晋级下一轮？",
+          "excerpt": "",
+          "answer_count": 673,
+          "created": 1530462862,
+          "url": "https://api.zhihu.com/questions/283510016",
+          "comment_count": 15,
+          "is_following": false,
+          "follower_count": 1173,
+          "type": "question",
+          "id": 283510016
+        },
+        "preview_type": "default",
+        "content": "<p>上半场前44分钟，西班牙控球率75%，传球成功率90%，射门0。</p><p>我写了这么多年足球和数据，这次还真的是活久见。</p><p>缺少提速，极度保守，这本身就不是真正的传控足球，更不是西班牙的巅峰水平。更何况，现在顶级足球比赛的节奏越来越快，传控在一场或者两回合定胜负的杯赛里屡屡被快速反击击倒，也是有一定必然性的。</p><p>或许在漫长的联赛里，传控为主的球队依然可以拿出最稳定的表现，但俄罗斯世界杯真的是一届不属于传控的世界杯。</p><p>传控，真的到了彻底变革的时候。你看瓜迪奥拉的曼城，不是已经比当年的巴萨或者拜仁推进和进攻的速度快多了吗？</p><p>连瓜迪奥拉都改变了，其他球队还有什么理由继续慢悠悠地传来控去？</p>",
+        "comment_count": 46,
+        "reshipment_settings": "allowed",
+        "thanks_count": 24,
+        "excerpt_new": "上半场前44分钟，西班牙控球率75%，传球成功率90%，射门0。我写了这么多年足球和数据，这次还真的是活久见。缺少提速，极度保守，这本身就不是真正的传控足球，更不是西班牙的巅峰水平。更何况，现在顶级足球比赛的节奏越来越快，传控在一场或者两回合定胜负的杯赛里屡屡被快速反击击倒，也是有一定…",
+        "preview_text": "",
+        "is_copyable": true,
+        "type": "answer",
+        "thumbnail": null
+      },
+      "show_actor_time": false,
+      "action_text_tpl": "热门内容, 来自: {}",
+      "brief": "{\"source\": \"TS\", \"type\": \"answer\", \"id\": 431526348}",
+      "updated_time": 1530487917,
+      "verb": "GUEST_HOME_FEED_ANSWER",
+      "actors": [{
+        "follow_interest": {
+          "is_followed": false
+        },
+        "name": "足球",
+        "url": "https://api.zhihu.com/topics/19559052",
+        "excerpt": "",
+        "introduction": "足球，有“世界第一运动”的美誉，是全球体育界最具影响力的单项体育运动。标准的足球比赛由两队各派10名球员与1名守门员，共11人，在长方形的草地球场上对抗、进攻。比赛目的是尽量将足球射入对方的球门内，每射入一球就可以得到一分，当比赛完毕后，得分多的一队则胜出。如果在比赛规定时间内得分相同，则须看比赛章则而定，可以抽签、加时再赛或互射点球（十二码）等形式比赛分高下。足球比赛中除了守门员可以在己方禁区内利用手部接触足球外，球场上每名球员只可以利用手以外的身体其他部分控制足球（开界外球例外）。",
+        "avatar_url": "https://pic2.zhimg.com/v2-73b6c853c337ba8ff1684855306b3cfb.jpg",
+        "type": "topic",
+        "id": "19559052"
+      }],
+      "attached_info": "ClEQBBoJMTA4NTI4MzY0IJ6U5NkFKLYCQARSFmd1ZXN0X2hvbWVfZmVlZF9hbnN3ZXJaCDI1Mjc4NDc0cgk0MzE1MjYzNDiKAQkyODM1MTAwMTY=",
+      "offset": 4,
+      "created_time": 1530487917,
+      "type": "feed",
+      "id": "4_1530487917.21"
+    },
+    {
+      "count": 1,
+      "uninterest_reasons": [],
+      "target": {
+        "relationship": {
+          "voting": 0,
+          "is_thanked": false,
+          "is_nothelp": false,
+          "upvoted_followee_ids": []
+        },
+        "mark_infos": [],
+        "excerpt": "啊，好不好意思啊 那我说一下我的心理，我喜欢刘亦菲嗯……我也是女生大概是这样的“卧槽太好看了，妈妈我看见仙女了” [图片] “啊啊啊，老公你撩了我不来去我，小拳拳捶你胸口！” [图片] “啊啊啊老婆你太可爱啊，此生非刘亦菲不取！” [图片] [图片] “刘亦菲，你得到了我的心，你也得不到我的人！！！” [图片] 本来想一句评论一张动图…",
+        "created_time": 1529730581,
+        "updated_time": 1529730592,
+        "id": 424212611,
+        "voteup_count": 412,
+        "can_comment": {
+          "status": true,
+          "reason": ""
+        },
+        "author": {
+          "is_followed": false,
+          "badge": [],
+          "name": "冷月葬花魂",
+          "url": "https://api.zhihu.com/people/99e1b4e55f274dd33b2015cde979a3aa",
+          "url_token": "leng-yue-zang-hua-hun-21-72",
+          "user_type": "people",
+          "headline": null,
+          "avatar_url": "https://pic4.zhimg.com/da8e974dc_s.jpg",
+          "is_following": false,
+          "is_org": false,
+          "gender": null,
+          "type": "people",
+          "id": "99e1b4e55f274dd33b2015cde979a3aa"
+        },
+        "url": "https://api.zhihu.com/answers/424212611",
+        "comment_permission": "all",
+        "question": {
+          "author": {
+            "is_followed": false,
+            "badge": [],
+            "name": "hhhhhhhzy",
+            "url": "https://api.zhihu.com/people/682efe7e6e8f47bdb401fc33225255ac",
+            "url_token": "xinbaby-12",
+            "user_type": "people",
+            "headline": null,
+            "avatar_url": "https://pic4.zhimg.com/da8e974dc_s.jpg",
+            "is_following": false,
+            "is_org": false,
+            "gender": null,
+            "type": "people",
+            "id": "682efe7e6e8f47bdb401fc33225255ac"
+          },
+          "bound_topic_ids": [
+            7340,
+            10026,
+            12989,
+            42813,
+            165187
+          ],
+          "title": "女生疯狂追女明星属于什么心理啊？",
+          "excerpt": "",
+          "answer_count": 297,
+          "created": 1528912163,
+          "url": "https://api.zhihu.com/questions/280945727",
+          "comment_count": 8,
+          "is_following": false,
+          "follower_count": 455,
+          "type": "question",
+          "id": 280945727
+        },
+        "preview_type": "default",
+        "content": "<p>啊，好不好意思啊</p><p><br></p><p>那我说一下我的心理，我喜欢刘亦菲</p><p>嗯……我也是女生</p><p>大概是这样的</p><p>“卧槽太好看了，妈妈我看见仙女了”</p><figure><img src=\"https://pic1.zhimg.com/50/v2-97be8f91e9207add189d9e2c400becd9_b.jpg\" data-rawwidth=\"327\" data-rawheight=\"200\" data-size=\"normal\" class=\"content_image\" width=\"327\"></figure><p>“啊啊啊，老公你撩了我不来去我，小拳拳捶你胸口！”</p><figure><img src=\"https://pic1.zhimg.com/50/v2-31cd6a0ac07e306bb316515e4930235d_b.jpg\" data-rawwidth=\"720\" data-rawheight=\"959\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"720\" data-original=\"https://pic1.zhimg.com/50/v2-31cd6a0ac07e306bb316515e4930235d_r.jpg\"></figure><p>“啊啊啊老婆你太可爱啊，此生非刘亦菲不取！”</p><figure><img src=\"https://pic4.zhimg.com/50/v2-1c04ae5f91edf1bd8cf35ef01129717d_b.jpg\" data-rawwidth=\"1144\" data-rawheight=\"1908\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"1144\" data-original=\"https://pic4.zhimg.com/50/v2-1c04ae5f91edf1bd8cf35ef01129717d_r.jpg\"></figure><p><br></p><figure><img src=\"https://pic3.zhimg.com/50/v2-30636a7a14e664ca10bdb520d1d6cb8b_b.jpg\" data-rawwidth=\"580\" data-rawheight=\"580\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"580\" data-original=\"https://pic3.zhimg.com/50/v2-30636a7a14e664ca10bdb520d1d6cb8b_r.jpg\"></figure><p>“刘亦菲，你得到了我的心，你也得不到我的人！！！”</p><figure><img src=\"https://pic3.zhimg.com/50/v2-934ad4eeb2b5a2668d6b3fe2675e819f_b.jpg\" data-rawwidth=\"650\" data-rawheight=\"915\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"650\" data-original=\"https://pic3.zhimg.com/50/v2-934ad4eeb2b5a2668d6b3fe2675e819f_r.jpg\"></figure><p>本来想一句评论一张动图，但有些动图传不上来，只能拿照片了emmm好气哦</p><figure><img src=\"https://pic2.zhimg.com/50/v2-60a73742a49f145cdfadf493ed6808c4_b.jpg\" data-rawwidth=\"720\" data-rawheight=\"720\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"720\" data-original=\"https://pic2.zhimg.com/50/v2-60a73742a49f145cdfadf493ed6808c4_r.jpg\"></figure><p>哈哈哈哈我不管刘亦菲要来娶我了</p><figure><img src=\"https://pic2.zhimg.com/50/v2-4f9d58e75b5de454215abd9b163dd8c0_b.jpg\" data-rawwidth=\"349\" data-rawheight=\"323\" data-size=\"normal\" class=\"content_image\" width=\"349\"></figure><p></p>",
+        "comment_count": 65,
+        "reshipment_settings": "allowed",
+        "thanks_count": 25,
+        "excerpt_new": "啊，好不好意思啊 那我说一下我的心理，我喜欢刘亦菲嗯……我也是女生大概是这样的“卧槽太好看了，妈妈我看见仙女了” [图片] “啊啊啊，老公你撩了我不来去我，小拳拳捶你胸口！” [图片] “啊啊啊老婆你太可爱啊，此生非刘亦菲不取！” [图片] [图片] “刘亦菲，你得到了我的心，你也得不到我的人！！！” [图片] 本来想一句评论一张动图…",
+        "preview_text": "",
+        "is_copyable": true,
+        "type": "answer",
+        "thumbnail": "https://pic4.zhimg.com/v2-97be8f91e9207add189d9e2c400becd9_200x112.jpg"
+      },
+      "show_actor_time": false,
+      "action_text_tpl": "热门内容, 来自: {}",
+      "brief": "{\"source\": \"TS\", \"type\": \"answer\", \"id\": 424212611}",
+      "updated_time": 1530487917,
+      "verb": "GUEST_HOME_FEED_ANSWER",
+      "actors": [{
+        "follow_interest": {
+          "is_followed": false
+        },
+        "name": "女明星",
+        "url": "https://api.zhihu.com/topics/19572214",
+        "excerpt": "",
+        "introduction": "",
+        "avatar_url": "https://pic2.zhimg.com/v2-38e8a0a35c3d7c786bbb0b738ed10a60.jpg",
+        "type": "topic",
+        "id": "19572214"
+      }],
+      "attached_info": "ClEQBBoJMTA3MTk4NjU1IJWst9kFKJwDQAVSFmd1ZXN0X2hvbWVfZmVlZF9hbnN3ZXJaCDI0NzA4NDMycgk0MjQyMTI2MTGKAQkyODA5NDU3Mjc=",
+      "offset": 5,
+      "created_time": 1530487917,
+      "type": "feed",
+      "id": "5_1530487917.24"
+    },
+    {
+      "count": 1,
+      "uninterest_reasons": [],
+      "target": {
+        "relationship": {
+          "voting": 0,
+          "is_thanked": false,
+          "is_nothelp": false,
+          "upvoted_followee_ids": []
+        },
+        "mark_infos": [],
+        "excerpt": "美国监狱里有个规矩，进监狱第一天，选择看起来最壮最凶恶的那个，暴打他一顿，其他人就不敢欺负你了。 [图片] [图片] 每次看到这两张图片，我都忍不住滑向嘴角的笑意。哇哈哈哈哈哈哈。 这是一个短剧，很多人找视频的，视频我挂到评论区的精选中了。吴杰：批判酱缸理论 吴杰：刘禅是真傻还是装傻",
+        "created_time": 1527872855,
+        "updated_time": 1528020412,
+        "id": 407266749,
+        "voteup_count": 16224,
+        "can_comment": {
+          "status": true,
+          "reason": ""
+        },
+        "author": {
+          "is_followed": false,
+          "badge": [],
+          "name": "吴杰",
+          "url": "https://api.zhihu.com/people/3e3bc449f55f3445937ad01ec1c296ec",
+          "url_token": "zhou-shi-zong-71",
+          "user_type": "people",
+          "headline": "知乎野生理论家，兼职干点喷子的勾当。",
+          "avatar_url": "https://pic2.zhimg.com/v2-c34b9150936b80796327a0ff30a6d7a2_b.jpg",
+          "is_following": false,
+          "is_org": false,
+          "gender": null,
+          "type": "people",
+          "id": "3e3bc449f55f3445937ad01ec1c296ec"
+        },
+        "url": "https://api.zhihu.com/answers/407266749",
+        "comment_permission": "all",
+        "question": {
+          "author": {
+            "is_followed": false,
+            "badge": [],
+            "name": "花宵花嚣",
+            "url": "https://api.zhihu.com/people/7c705f30d6bc6768066f91e1de4c3173",
+            "url_token": "hua-xiao-hua-xiao",
+            "user_type": "people",
+            "headline": "法务会计，网文写手",
+            "avatar_url": "https://pic1.zhimg.com/v2-af32ab662170ba63e44184a1d6873ef3_b.jpg",
+            "is_following": false,
+            "is_org": false,
+            "gender": 0,
+            "type": "people",
+            "id": "7c705f30d6bc6768066f91e1de4c3173"
+          },
+          "bound_topic_ids": [
+            645,
+            1307,
+            10553,
+            10740,
+            20223
+          ],
+          "title": "有什么明明很悲伤看着却很搞笑的视频或故事？",
+          "excerpt": "",
+          "answer_count": 637,
+          "created": 1527593490,
+          "url": "https://api.zhihu.com/questions/279110784",
+          "comment_count": 12,
+          "is_following": false,
+          "follower_count": 10323,
+          "type": "question",
+          "id": 279110784
+        },
+        "preview_type": "default",
+        "content": "<p>美国监狱里有个规矩，进监狱第一天，选择看起来最壮最凶恶的那个，暴打他一顿，其他人就不敢欺负你了。</p><figure><img src=\"https://pic4.zhimg.com/50/v2-ceaac4733e18e8b7e20650317f13746d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"440\" data-rawheight=\"3526\" class=\"origin_image zh-lightbox-thumb\" width=\"440\" data-original=\"https://pic4.zhimg.com/50/v2-ceaac4733e18e8b7e20650317f13746d_r.jpg\"></figure><p><br></p><figure><img src=\"https://pic4.zhimg.com/50/v2-3af8fa2e3ea3882c3552c02da5949015_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"440\" data-rawheight=\"4005\" class=\"origin_image zh-lightbox-thumb\" width=\"440\" data-original=\"https://pic4.zhimg.com/50/v2-3af8fa2e3ea3882c3552c02da5949015_r.jpg\"></figure><p>每次看到这两张图片，我都忍不住滑向嘴角的笑意。</p><p>哇哈哈哈哈哈哈。</p><p><br></p><p><br></p><p>这是一个短剧，很多人找视频的，视频我挂到评论区的精选中了。</p><a href=\"https://zhuanlan.zhihu.com/p/37431547\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\"internal\">吴杰：批判酱缸理论</a><a href=\"https://zhuanlan.zhihu.com/p/34764862\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\"internal\">吴杰：刘禅是真傻还是装傻</a>",
+        "comment_count": 575,
+        "reshipment_settings": "allowed",
+        "thanks_count": 1120,
+        "excerpt_new": "美国监狱里有个规矩，进监狱第一天，选择看起来最壮最凶恶的那个，暴打他一顿，其他人就不敢欺负你了。 [图片] [图片] 每次看到这两张图片，我都忍不住滑向嘴角的笑意。哇哈哈哈哈哈哈。 这是一个短剧，很多人找视频的，视频我挂到评论区的精选中了。吴杰：批判酱缸理论 吴杰：刘禅是真傻还是装傻",
+        "preview_text": "",
+        "is_copyable": true,
+        "type": "answer",
+        "thumbnail": "https://pic4.zhimg.com/v2-8fecd54f29afa1d6b1ea5c37a46c3390_200x112.jpg"
+      },
+      "show_actor_time": false,
+      "action_text_tpl": "热门内容, 来自: {}",
+      "brief": "{\"source\": \"TS\", \"type\": \"answer\", \"id\": 407266749}",
+      "updated_time": 1530487917,
+      "verb": "GUEST_HOME_FEED_ANSWER",
+      "actors": [{
+        "follow_interest": {
+          "is_followed": false
+        },
+        "name": "视频",
+        "url": "https://api.zhihu.com/topics/19552153",
+        "excerpt": "",
+        "introduction": "视频（Video）泛指将一系列静态影像以电信号的方式加以捕捉、纪录、处理、储存、传送与重现的各种技术。连续的图像变化每秒超过24帧（frame）画面以上时，根据视觉暂留原理，人眼无法辨别单幅的静态画面；看上去是平滑连续的视觉效果，这样连续的画面叫做视频。视频技术最早是为了电视系统而发展，但现在已经发展为各种不同的格式以利消费者将视频记录下来。网络技术的发达也促使视频的纪录片段以串流媒体的形式存在于因特网之上并可被电脑接收与播放。视频与电影属于不同的技术，后者是利用照相术将动态的影像捕捉为一系列的静态照片。",
+        "avatar_url": "https://pic2.zhimg.com/v2-180881ce2f40c6de873402120beaabb0.png",
+        "type": "topic",
+        "id": "19552153"
+      }],
+      "attached_info": "ClEQBBoJMTA0MTE4NTc4INf6xdgFKOB+QAZSFmd1ZXN0X2hvbWVfZmVlZF9hbnN3ZXJaCDI0MzAwNDE1cgk0MDcyNjY3NDmKAQkyNzkxMTA3ODQ=",
+      "offset": 6,
+      "created_time": 1530487917,
+      "type": "feed",
+      "id": "6_1530487917.26"
+    },
+    {
+      "count": 1,
+      "uninterest_reasons": [],
+      "target": {
+        "relationship": {
+          "voting": 0,
+          "is_thanked": false,
+          "is_nothelp": false,
+          "upvoted_followee_ids": []
+        },
+        "mark_infos": [],
+        "excerpt": "•看了好多关于“射墨”的文章，大多数人，包括我的一些同学和一些书法从业者都秉持反对态度，认为这种不伦不类的东西是对中国书法的糟蹋。上一次有这样的言论还是在大家对于曾翔“吼书”的态度上，与此类说法共同出现的还有“丑书”、“江湖书法”等等名词。 •先不谈对以上说法的看法，想先说…",
+        "created_time": 1530121089,
+        "updated_time": 1530441056,
+        "id": 428280048,
+        "voteup_count": 158,
+        "can_comment": {
+          "status": true,
+          "reason": ""
+        },
+        "author": {
+          "is_followed": false,
+          "badge": [],
+          "name": "李仙儿",
+          "url": "https://api.zhihu.com/people/b8f9506e014ceffd41ad48989fe077f9",
+          "url_token": "li-xian-er-76",
+          "user_type": "people",
+          "headline": "",
+          "avatar_url": "https://pic3.zhimg.com/v2-3d735af49ccb90fd60eadfe63239de38_b.jpg",
+          "is_following": false,
+          "is_org": false,
+          "gender": null,
+          "type": "people",
+          "id": "b8f9506e014ceffd41ad48989fe077f9"
+        },
+        "url": "https://api.zhihu.com/answers/428280048",
+        "comment_permission": "all",
+        "question": {
+          "author": {
+            "headline": "",
+            "avatar_url": "https://pic4.zhimg.com/aadd7b895_s.jpg",
+            "name": "匿名用户",
+            "url": "",
+            "type": "people",
+            "user_type": "people",
+            "id": "0"
+          },
+          "bound_topic_ids": [
+            569,
+            930,
+            39854
+          ],
+          "title": "如何看待微博上流传的邵岩“射墨”创作视频？",
+          "excerpt": "",
+          "answer_count": 62,
+          "created": 1530036410,
+          "url": "https://api.zhihu.com/questions/282776995",
+          "comment_count": 5,
+          "is_following": false,
+          "follower_count": 160,
+          "type": "question",
+          "id": 282776995
+        },
+        "preview_type": "default",
+        "content": "•看了好多关于“射墨”的文章，大多数人，包括我的一些同学和一些书法从业者都秉持反对态度，认为这种不伦不类的东西是对中国书法的糟蹋。上一次有这样的言论还是在大家对于曾翔“吼书”的态度上，与此类说法共同出现的还有“丑书”、“江湖书法”等等名词。<br>        •先不谈对以上说法的看法，想先说一下中国书法艺术的概念。各种书法书籍以及网络上已经有各种各样书法的概念，但是我个人更愿意把中国书法艺术理解为是以中国汉字为载体，用一定的书写工具和材料去表现创作内容和创作者情感的造型艺术。（这里我用了“书法艺术”而不是“书法”，是因为很多人认为“写字”和“书法”是可以画等号的，其实不然。当“写字”满足了人们对于文字的实用价值后，又出现了审美价值，有了美的体验，那么写字就是艺术范畴的概念，也就是“书法艺术”，大家习惯直接称之为“书法”。）在这个概念的前提下，来重新审视邵岩先生的作品能否称之为“书法”。<br>（以下图片来自新浪微博）<br><br><figure><img src=\"https://pic3.zhimg.com/50/v2-5e05ca95cf0258035d67893378b113f5_b.jpg\" data-rawwidth=\"1133\" data-rawheight=\"1136\" class=\"origin_image zh-lightbox-thumb\" width=\"1133\" data-original=\"https://pic3.zhimg.com/50/v2-5e05ca95cf0258035d67893378b113f5_r.jpg\"></figure>        •这副作品名为「飞来好运」，作者邵岩在微博上说明作品的满意度达到95%，说明是一副比较满意的作品。那就斗胆分析一下这副作品。<br>        •首先，从作品内容上讲，只能恕我眼拙愚钝，如果没有作品名称的提示，单凭我自己是很难认出内容的，辨认难度很大，但还算有迹可循。<br>        •其次，从作品的创作工具上讲，使用了大家争议颇多的注射器，以及毛笔，墨汁，宣纸和酒精等传统用具。我并不反对使用除毛笔以外的工具来进行创作，毕竟在书法史上有以尖竹为笔，以刀石为笔，也有以指为书，甚至还有张旭以头濡墨作书，还传为妙谈，并且在生产丰富的现代社会，有各种各样的工具可以充当“毛笔”的作用，我个人对这种工具的创新使用持肯定态度，因为很有可能创作工具的革新，会引发书法创作面貌的革新，这是一种良好的尝试。<br>        •最后，从作品所反映的艺术审美性来看，这副作品字法错位，线条绵软，章法混乱，从传统书法作品角度评价实在不能算是一副好作品，甚至可以作为反面教材。但是，如果从视觉感受的角度来看，整幅作品粗细变化大，冲击力强，胀墨的运用增添水墨感，喷射墨汁产生的墨点和其余笔画形成运动和静止的对比等等，这些方面说明这副作品是有审美价值存在的，也并非只是胡乱“射墨”。因此，邵岩先生在自己的创新中已有所成，并能转化为艺术作品，实现价值。<br>        •但是，以上所有话只对我所分析的邵岩先生作品负责，绝不表明其他态度，因为现在我要收尾呼应扣一波题。从之前的“拖布书法”，“左右手书法”，到曾翔先生的“吼书”，再到如今的“射墨”书法，无不是被视频曝光，公众号做一波节奏后被广大人民群起而攻之，受到了各界的谩骂，甚至一些人因为网络对自己真实身份的保护从而大放厥词，挖苦讽刺，语言污秽不堪，然而可笑的是这些人大部分没有深入了解过书法，只是短短续续学过几年或者几个月、几天，甚至一部分人对书法一窍不通，令我十分不解，明明嘴里在说对中国传统文化的维护，但是中国传统的礼义廉耻却没看到分毫，因此我十分可怜这些被曝光的前辈书家。但是，可怜之人也必有些许可恨之处，<br><figure><img src=\"https://pic2.zhimg.com/50/v2-7f28ffd382ed45f5d763764e0f2a00cc_b.jpg\" data-rawwidth=\"1080\" data-rawheight=\"1920\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic2.zhimg.com/50/v2-7f28ffd382ed45f5d763764e0f2a00cc_r.jpg\"></figure>身着绸质中国对襟服饰，留着浓密的络腮胡子，五六个礼仪小姐举着宣纸，还有夸张的动作，时不时传来的叫好声…满满的作秀感，令人头皮发麻，望而生叹。<br>•书家到了一定程度会出现瓶颈期，破则立，千百年来书家皆如此而成名家，成大家，艺术的创新无可厚非，作为书法从业者也希望能有更多的破与立，能为我们这些后辈指出方向，而不希望看到越来越多这样的姿态出现在公众面前。我同时希望民众对于艺术的态度宽容一些，也希望通过我们的努力来提升民众的艺术欣赏水平，改变民众对好艺术的标准是“画的真像，写的真黑”。<br>•请前辈们自重！也请大家多多担待！<br>（附上书画作品几张，作者为邵岩）<br><figure><img src=\"https://pic1.zhimg.com/50/v2-22fec1841403148160af85ff79ab9b1d_b.jpg\" data-rawwidth=\"1001\" data-rawheight=\"665\" class=\"origin_image zh-lightbox-thumb\" width=\"1001\" data-original=\"https://pic1.zhimg.com/50/v2-22fec1841403148160af85ff79ab9b1d_r.jpg\"></figure><figure><img src=\"https://pic3.zhimg.com/50/v2-cda81f78629de631f84106db5b853ed6_b.jpg\" data-rawwidth=\"690\" data-rawheight=\"476\" class=\"origin_image zh-lightbox-thumb\" width=\"690\" data-original=\"https://pic3.zhimg.com/50/v2-cda81f78629de631f84106db5b853ed6_r.jpg\"></figure><br><figure><img src=\"https://pic3.zhimg.com/50/v2-d21c43aa4d7a36368921acec0ed6a34f_b.jpg\" data-rawwidth=\"845\" data-rawheight=\"1697\" class=\"origin_image zh-lightbox-thumb\" width=\"845\" data-original=\"https://pic3.zhimg.com/50/v2-d21c43aa4d7a36368921acec0ed6a34f_r.jpg\"></figure><br><figure><img src=\"https://pic4.zhimg.com/50/v2-80feba11a23bceafe1141f46c331369b_b.jpg\" data-rawwidth=\"637\" data-rawheight=\"1687\" class=\"origin_image zh-lightbox-thumb\" width=\"637\" data-original=\"https://pic4.zhimg.com/50/v2-80feba11a23bceafe1141f46c331369b_r.jpg\"></figure>（图片来自网络，侵删）<br><br><br>7月1日再来补充几点<br><br>一、有人提到书法不是艺术，我不太懂这个点的依据在哪里，如果能给我一个官方的文献或者学者论文说明的话不胜感激，因为我怕自己太坐井观天，希望能有更多不一样的观点碰撞。但是我认为书法是艺术的观点是出自于彭吉象老师的《艺术学概论》，一本很好的艺术学启蒙教科书，推荐阅读。<br><figure><img src=\"https://pic1.zhimg.com/50/v2-e48a6ee11491549f823b1eee1bb5ba81_b.jpg\" data-rawwidth=\"1280\" data-rawheight=\"2276\" class=\"origin_image zh-lightbox-thumb\" width=\"1280\" data-original=\"https://pic1.zhimg.com/50/v2-e48a6ee11491549f823b1eee1bb5ba81_r.jpg\"></figure><br><figure><img src=\"https://pic3.zhimg.com/50/v2-43ecaef952145ecc104be3d543a418ee_b.jpg\" data-rawwidth=\"2276\" data-rawheight=\"1280\" class=\"origin_image zh-lightbox-thumb\" width=\"2276\" data-original=\"https://pic3.zhimg.com/50/v2-43ecaef952145ecc104be3d543a418ee_r.jpg\"></figure>我这本有些老了，也不是最新版。<br><br>二、有人说民众民智未开，这显然是不合适的。民众并非没有判断，也并非是没有艺术审美，只是需要一个正确的引导，一些正确的艺术教育，仅此而已。如果硬要说的话，也仅仅是在艺术评价方面有些盲目罢了。<br><br>三、有人提到艺术还是要以大众为主，以大众的审美和大众的评判为主。如果是将艺术放在社会当中，这种说法是没错的，大众的方向决定了艺术品的价值。但是，包括现在所说的邵岩先生的作品，是属于实验性艺术，相对于这种艺术能形成的价值而言，更加看重的是这种艺术的创造性和不确定性，是这种艺术为未来的艺术创作提供了新思路新想法。这种创新对于艺术家和艺术团体而言价值更高。当然也是具有很高的风险的。<br>举一个例子，如果成熟的艺术作品所表现出的艺术价值是7的话，这种实验性艺术作品能表现出的价值只有1。但是实验性艺术为这个数值提供了一个不确定的小数点，可能会点在十位成为10，使这种艺术成为超越传统艺术的存在；也可能会点在个位之前成为0.1，结果可想而知。<br><br>四、我不知道这个视频的上传是否得到了本人的默许，但就我个人而言还是对这种行为是保持辩证态度。书法从古至今都是作为造型艺术存在，具有永固性的特征，从而有永以为宝的书法经典作品传世，令我们书学后辈可以临摹学习。但是在媒体技术和网络发达的当代，书法是否能成为行为艺术和造型艺术结合的存在？不得而知。<br>但就这个视频而言，还是令人难以接受。",
+        "comment_count": 33,
+        "reshipment_settings": "allowed",
+        "thanks_count": 22,
+        "excerpt_new": "•看了好多关于“射墨”的文章，大多数人，包括我的一些同学和一些书法从业者都秉持反对态度，认为这种不伦不类的东西是对中国书法的糟蹋。上一次有这样的言论还是在大家对于曾翔“吼书”的态度上，与此类说法共同出现的还有“丑书”、“江湖书法”等等名词。 •先不谈对以上说法的看法，想先说…",
+        "preview_text": "",
+        "is_copyable": true,
+        "type": "answer",
+        "thumbnail": "https://pic4.zhimg.com/v2-5e05ca95cf0258035d67893378b113f5_200x112.jpg"
+      },
+      "show_actor_time": false,
+      "action_text_tpl": "热门内容, 来自: {}",
+      "brief": "{\"source\": \"TS\", \"type\": \"answer\", \"id\": 428280048}",
+      "updated_time": 1530487917,
+      "verb": "GUEST_HOME_FEED_ANSWER",
+      "actors": [{
+        "follow_interest": {
+          "is_followed": false
+        },
+        "name": "书法",
+        "url": "https://api.zhihu.com/topics/19551914",
+        "excerpt": "",
+        "introduction": "书法是中国及深受中国文化影响过的周边国家和地区特有的一种文字美的艺术表现形式。包括汉字书法、蒙古文书法、阿拉伯书法和英文书法等。其“中国书法”，是中国汉字特有的一种传统艺术。从广义讲，书法是指文字符号的书写法则。换言之，书法是指按照文字特点及其含义，以其书体笔法、结构和章法书写，使之成为富有美感的艺术作品。汉字书法为汉族独创的表现艺术，被誉为：无言的诗，无行的舞；无图的画，无声的乐等。",
+        "avatar_url": "https://pic2.zhimg.com/b43faf932",
+        "type": "topic",
+        "id": "19551914"
+      }],
+      "attached_info": "ClEQBBoJMTA3OTM4MjU0IIGXz9kFKJ4BQAdSFmd1ZXN0X2hvbWVfZmVlZF9hbnN3ZXJaCDI1MTE1NjEwcgk0MjgyODAwNDiKAQkyODI3NzY5OTU=",
+      "offset": 7,
+      "created_time": 1530487917,
+      "type": "feed",
+      "id": "7_1530487917.28"
+    },
+    {
+      "count": 1,
+      "uninterest_reasons": [],
+      "target": {
+        "relationship": {
+          "voting": 0,
+          "is_thanked": false,
+          "is_nothelp": false,
+          "upvoted_followee_ids": []
+        },
+        "mark_infos": [],
+        "excerpt": "抑郁症，休学一年，我妈怕我一个人孤单就决定养猫了。我在镇上住，治疗住院是在市里，要坐一个半小时的大巴。出院那天，我妈带着我跑了全市十来个宠物店。我当时心里想，今天这片地方，这个城市，将会有一只猫属于我了。然后就看见了它。 [图片] 刚满两个月，小小的软软的一捧，感觉用点力都会伤到它。我和它…",
+        "created_time": 1529861183,
+        "updated_time": 1529912713,
+        "id": 425566875,
+        "voteup_count": 514,
+        "can_comment": {
+          "status": true,
+          "reason": ""
+        },
+        "author": {
+          "is_followed": false,
+          "badge": [],
+          "name": "野生HmB",
+          "url": "https://api.zhihu.com/people/13e0931b7cbdfa133916e3dc07d9f21e",
+          "url_token": "an-qin-32-10",
+          "user_type": "people",
+          "headline": "好想暴富",
+          "avatar_url": "https://pic3.zhimg.com/v2-9d1e678f2377424062e0381f00f0f44f_b.jpg",
+          "is_following": false,
+          "is_org": false,
+          "gender": null,
+          "type": "people",
+          "id": "13e0931b7cbdfa133916e3dc07d9f21e"
+        },
+        "url": "https://api.zhihu.com/answers/425566875",
+        "comment_permission": "all",
+        "question": {
+          "author": {
+            "is_followed": false,
+            "badge": [],
+            "name": "Hellosurprise520",
+            "url": "https://api.zhihu.com/people/03d77def4f1e3d454fd91b90cc6c50a6",
+            "url_token": "hellosurprise520",
+            "user_type": "people",
+            "headline": "学生",
+            "avatar_url": "https://pic1.zhimg.com/v2-d1fc14736d78d0b6afdd6cec17007879_b.jpg",
+            "is_following": false,
+            "is_org": false,
+            "gender": null,
+            "type": "people",
+            "id": "03d77def4f1e3d454fd91b90cc6c50a6"
+          },
+          "bound_topic_ids": [
+            18974,
+            180097,
+            182240
+          ],
+          "title": "你们都是因为什么开始养猫的，养了以后又有什么变化。？",
+          "excerpt": "",
+          "answer_count": 70,
+          "created": 1529823213,
+          "url": "https://api.zhihu.com/questions/282291466",
+          "comment_count": 0,
+          "is_following": false,
+          "follower_count": 329,
+          "type": "question",
+          "id": 282291466
+        },
+        "preview_type": "default",
+        "content": "<p>抑郁症，休学一年，我妈怕我一个人孤单就决定养猫了。</p><p>我在镇上住，治疗住院是在市里，要坐一个半小时的大巴。出院那天，我妈带着我跑了全市十来个宠物店。</p><p>我当时心里想，今天这片地方，这个城市，将会有一只猫属于我了。</p><p>然后就看见了它。</p><figure><img src=\"https://pic1.zhimg.com/50/v2-572dd0c5fd890a96e6cefcdf98d7d11a_b.jpg\" data-rawwidth=\"1080\" data-rawheight=\"1080\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic1.zhimg.com/50/v2-572dd0c5fd890a96e6cefcdf98d7d11a_r.jpg\"></figure><p>刚满两个月，小小的软软的一捧，感觉用点力都会伤到它。我和它一对眼，我的妈，它的眼睛亮的，又水灵又干净，当时脑子里就叮的一声，我就知道是它了。</p><p><br></p><p>回镇上去的大巴里它一直安安静静的蹲在猫包里。那时候天都黑了，它好奇的把头凑到透明罩上，外边飞掠的光在它眼里就像湖面倒映的流星。</p><p>眼睛，粉色的鼻子，耳朵，细细软软的绒毛，我就这么盯了一个多小时不眨眼的。</p><p><br></p><p>因为领回去的时候已经快十二月了，小猫怕冻，南方又没有暖气，就一直让它和我盖被子睡觉。</p><p>我会侧躺着，给它支一块地方不被被子压着（两层被子太重），然后它会很乖的把头枕在我胳膊上，紧挨着我打小呼噜。</p><p>我是那种睡觉要求非常高的人，比如脖子上不能有任何被子挨着，会特别不舒服。</p><p>但是那个冬天，一整个冬天，我都是这么给它支一块地方，半夜身子都会又酸又麻，还不敢翻身，因为它睡的特别好。</p><p>有一次我睡懵了，中途翻了个身背对着它，想起来的时候连忙回头看它，发现它贴着我的后背，仰躺着，盖着被子还在打呼噜。</p><p>那么小一只，那么乖，陪着我。</p><p><br></p><p>唉，那一瞬间。</p><p>我生病是因为我从来感受不到幸福，可是那一瞬间真的，我觉得我是幸福着的。</p><p><br></p><p>我晚上失眠的时候特喜欢盯着他打呼噜，心里想它是不是老天派下来拯救我的，真的是很认真的在想这个问题。</p><p>我不热衷于神佛，可总对于拥有它这件事过分受宠若惊。</p><p><br></p><p>后来它慢慢变长变壮。</p><figure><img src=\"https://pic3.zhimg.com/50/v2-2edf5ee017a7788e5b64e29c1a6634be_b.jpg\" data-rawwidth=\"1080\" data-rawheight=\"1714\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic3.zhimg.com/50/v2-2edf5ee017a7788e5b64e29c1a6634be_r.jpg\"></figure><p><br></p><figure><img src=\"https://pic4.zhimg.com/50/v2-cad18b1c35dfca2c12caef93b3f57e0f_b.jpg\" data-rawwidth=\"1920\" data-rawheight=\"1080\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"1920\" data-original=\"https://pic4.zhimg.com/50/v2-cad18b1c35dfca2c12caef93b3f57e0f_r.jpg\"></figure><p><br></p><figure><img src=\"https://pic2.zhimg.com/50/v2-18bcc05b116a6883648b691a285a1a76_b.jpg\" data-rawwidth=\"1080\" data-rawheight=\"1692\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic2.zhimg.com/50/v2-18bcc05b116a6883648b691a285a1a76_r.jpg\"></figure><p>在江小白，小黑，宝宝等若干过分沙雕名字中取了最上口的毛毛。</p><p>毛毛叫着叫着又延伸到毛毛酱，李小毛，毛子等等更沙雕的绰号。</p><p><br></p><p>不知道别人养猫会变得如何。</p><p>但是只要想着家里还有只猫等着你，似乎一切都变得充满动力，什么都能熬的下去。</p><p>更坚强了吧，大概就是。</p><p><br></p><p>放几张现在的照片</p><figure><img src=\"https://pic2.zhimg.com/50/v2-82150aaba12520b124c609e73c746e7c_b.jpg\" data-rawwidth=\"2048\" data-rawheight=\"1536\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"2048\" data-original=\"https://pic2.zhimg.com/50/v2-82150aaba12520b124c609e73c746e7c_r.jpg\"></figure><p><br></p><figure><img src=\"https://pic1.zhimg.com/50/v2-101466c838dc7a8927d01310d3147268_b.jpg\" data-rawwidth=\"1536\" data-rawheight=\"2048\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"1536\" data-original=\"https://pic1.zhimg.com/50/v2-101466c838dc7a8927d01310d3147268_r.jpg\"></figure><p><br></p><figure><img src=\"https://pic3.zhimg.com/50/v2-970a94e0c06ba221e61058273626ebcc_b.jpg\" data-rawwidth=\"2048\" data-rawheight=\"1292\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"2048\" data-original=\"https://pic3.zhimg.com/50/v2-970a94e0c06ba221e61058273626ebcc_r.jpg\"></figure><p><br></p><figure><img src=\"https://pic4.zhimg.com/50/v2-e20e9a63f4ba92a31959a9f0b42169f3_b.jpg\" data-rawwidth=\"1536\" data-rawheight=\"2048\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"1536\" data-original=\"https://pic4.zhimg.com/50/v2-e20e9a63f4ba92a31959a9f0b42169f3_r.jpg\"></figure><p><br></p><figure><img src=\"https://pic1.zhimg.com/50/v2-9198f53853fa0b01101bd12aa20f04ad_b.jpg\" data-rawwidth=\"1691\" data-rawheight=\"2048\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"1691\" data-original=\"https://pic1.zhimg.com/50/v2-9198f53853fa0b01101bd12aa20f04ad_r.jpg\"></figure><p><br></p><p>end-</p><p><br></p><p><br></p><p>……………………………………………………</p><p><br></p><p>补图，一张现在超凶的肥胖近照</p><figure><img src=\"https://pic1.zhimg.com/50/v2-b3e65e50bd0dbf320f42c518f9211ca3_b.jpg\" data-rawwidth=\"2240\" data-rawheight=\"1652\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"2240\" data-original=\"https://pic1.zhimg.com/50/v2-b3e65e50bd0dbf320f42c518f9211ca3_r.jpg\"></figure><p>长大前后简直两只猫</p><p>加一张卖萌图强行挽尊</p><figure><img src=\"https://pic4.zhimg.com/50/v2-8020a5b49bb63af2c98e5fc468ab0566_b.jpg\" data-rawwidth=\"1349\" data-rawheight=\"1508\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"1349\" data-original=\"https://pic4.zhimg.com/50/v2-8020a5b49bb63af2c98e5fc468ab0566_r.jpg\"></figure>",
+        "comment_count": 96,
+        "reshipment_settings": "allowed",
+        "thanks_count": 37,
+        "excerpt_new": "抑郁症，休学一年，我妈怕我一个人孤单就决定养猫了。我在镇上住，治疗住院是在市里，要坐一个半小时的大巴。出院那天，我妈带着我跑了全市十来个宠物店。我当时心里想，今天这片地方，这个城市，将会有一只猫属于我了。然后就看见了它。 [图片] 刚满两个月，小小的软软的一捧，感觉用点力都会伤到它。我和它…",
+        "preview_text": "",
+        "is_copyable": true,
+        "type": "answer",
+        "thumbnail": "https://pic4.zhimg.com/v2-ef0222d3b1cf92f5d2728d2ce5471ec0_200x112.jpg"
+      },
+      "show_actor_time": false,
+      "action_text_tpl": "热门内容, 来自: {}",
+      "brief": "{\"source\": \"TS\", \"type\": \"answer\", \"id\": 425566875}",
+      "updated_time": 1530487917,
+      "verb": "GUEST_HOME_FEED_ANSWER",
+      "actors": [{
+        "follow_interest": {
+          "is_followed": false
+        },
+        "name": "养猫",
+        "url": "https://api.zhihu.com/topics/19606983",
+        "excerpt": "",
+        "introduction": "",
+        "avatar_url": "https://pic2.zhimg.com/caf780d86c76c9626d11ae67103f31fc.png",
+        "type": "topic",
+        "id": "19606983"
+      }],
+      "attached_info": "ClEQBBoJMTA3NDQ0NzE4IL+ov9kFKIIEQAhSFmd1ZXN0X2hvbWVfZmVlZF9hbnN3ZXJaCDI1MDA3NzA3cgk0MjU1NjY4NzWKAQkyODIyOTE0NjY=",
+      "offset": 8,
+      "created_time": 1530487917,
+      "type": "feed",
+      "id": "8_1530487917.3"
+    }
+  ]
+}
