@@ -1,0 +1,37 @@
+[{
+  "store": "商家1",
+  "storeChecked": false,
+  "list": [{
+    "img": "http://img004.hc360.cn/y2/M00/B1/9C/wKhQdFS2RPSEb1TwAAAAAAkp4eA756.jpg",
+    "price": "10",
+    "weight": "20斤",
+    "isCheck": false,
+    "count": 1,
+    "describe": "新疆苹果1"
+  }, {
+    "img": "http://img2.imgtn.bdimg.com/it/u=2503655263,406362031&fm=27&gp=0.jpg",
+    "price": "20",
+    "weight": "10斤",
+    "isCheck": false,
+    "count": 1,
+    "describe": "新疆苹果2"
+  }]
+}, {
+  "store": "商家2",
+  "storeChecked": false,
+  "list": [{
+    "img": "http://img2.imgtn.bdimg.com/it/u=186783421,3299121157&fm=27&gp=0.jpg",
+    "price": "3",
+    "weight": "30斤",
+    "isCheck": false,
+    "count": 1,
+    "describe": "新疆苹果3"
+  }, {
+    "img": "http://img2.imgtn.bdimg.com/it/u=2503655263,406362031&fm=27&gp=0.jpg",
+    "price": "6",
+    "weight": "66斤",
+    "isCheck": false,
+    "count": 1,
+    "describe": "新疆苹果4"
+  }]
+}]
